@@ -1,0 +1,560 @@
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 92941.06509828568}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:17:56.750251Z", "type": "HEARTBEAT"}
+1566505118.2 > 
+1566505118.2 > LINK STATS to 1: 9 9 7
+1566505118.2 > drop: 0 0 0
+1566505118.3 > [INFO: SPHERE    ] --- Network status ---
+1566505118.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505118.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505118.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505118.3 > [INFO: SPHERE    ] -- Default route:
+1566505118.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505118.4 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505118.4 > [INFO: SPHERE    ] ----------------------
+1566505118.4 > Since last CoAP message / ACK: 48
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93001.10023403168}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:18:56.784875Z", "type": "HEARTBEAT"}
+1566505178.2 > 
+1566505178.2 > LINK STATS to 1: 30 30 0
+1566505178.2 > drop: 0 0 0
+1566505178.3 > [INFO: SPHERE    ] --- Network status ---
+1566505178.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505178.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505178.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505178.3 > [INFO: SPHERE    ] -- Default route:
+1566505178.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505178.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505178.3 > [INFO: SPHERE    ] ----------------------
+1566505178.3 > Since last CoAP message / ACK: 2
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93061.13429164886}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:19:56.818538Z", "type": "HEARTBEAT"}
+1566505238.2 > 
+1566505238.2 > LINK STATS to 1: 33 33 2
+1566505238.2 > drop: 0 0 0
+1566505238.3 > [INFO: SPHERE    ] --- Network status ---
+1566505238.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505238.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505238.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505238.3 > [INFO: SPHERE    ] -- Default route:
+1566505238.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505238.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505238.3 > [INFO: SPHERE    ] ----------------------
+1566505238.3 > Since last CoAP message / ACK: 2
+1566505238.3 > *** starting packetgen: 2 Hz
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93121.16883993149}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:20:56.854238Z", "type": "HEARTBEAT"}
+1566505298.2 > 
+1566505298.2 > LINK STATS to 1: 61 61 1
+1566505298.2 > drop: 0 54 0
+1566505298.3 > [INFO: SPHERE    ] --- Network status ---
+1566505298.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505298.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505298.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505298.3 > [INFO: SPHERE    ] -- Default route:
+1566505298.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505298.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505298.3 > [INFO: SPHERE    ] ----------------------
+1566505298.3 > Since last CoAP message / ACK: 1
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93181.20460367203}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:21:56.889544Z", "type": "HEARTBEAT"}
+1566505358.2 > 
+1566505358.2 > LINK STATS to 1: 60 60 0
+1566505358.2 > drop: 0 61 0
+1566505358.3 > [INFO: SPHERE    ] --- Network status ---
+1566505358.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505358.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505358.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505358.3 > [INFO: SPHERE    ] -- Default route:
+1566505358.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505358.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505358.3 > [INFO: SPHERE    ] ----------------------
+1566505358.3 > Since last CoAP message / ACK: 1
+1566505358.5 > *** starting packetgen: 4 Hz
+1566505371.6 > [INFO: MSF       ] reserved a cell at slot_offset:7, channel_offset:4
+1566505371.6 > [INFO: MSF       ] reserved a cell at slot_offset:66, channel_offset:5
+1566505371.6 > [INFO: MSF       ] reserved a cell at slot_offset:79, channel_offset:3
+1566505371.6 > [INFO: MSF       ] reserved a cell at slot_offset:32, channel_offset:0
+1566505371.6 > [INFO: MSF       ] reserved a cell at slot_offset:12, channel_offset:4
+1566505371.6 > [ERR : MSF       ] ADD transaction failed
+1566505371.6 > [INFO: MSF       ] released a reserved cell at slot_offset:7, channel_offset:4
+1566505371.6 > [INFO: MSF       ] released a reserved cell at slot_offset:66, channel_offset:5
+1566505371.6 > [INFO: MSF       ] released a reserved cell at slot_offset:79, channel_offset:3
+1566505371.6 > [INFO: MSF       ] released a reserved cell at slot_offset:32, channel_offset:0
+1566505371.6 > [INFO: MSF       ] released a reserved cell at slot_offset:12, channel_offset:4
+1566505371.6 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93241.24245452881}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:22:56.927399Z", "type": "HEARTBEAT"}
+1566505418.2 > 
+1566505418.2 > LINK STATS to 1: 61 61 1
+1566505418.2 > drop: 0 181 0
+1566505418.3 > [INFO: SPHERE    ] --- Network status ---
+1566505418.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505418.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505418.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505418.3 > [INFO: SPHERE    ] -- Default route:
+1566505418.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505418.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505418.3 > [INFO: SPHERE    ] ----------------------
+1566505418.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93301.27676010132}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:23:56.961215Z", "type": "HEARTBEAT"}
+1566505478.2 > 
+1566505478.2 > LINK STATS to 1: 61 61 1
+1566505478.2 > drop: 0 181 0
+1566505478.3 > [INFO: SPHERE    ] --- Network status ---
+1566505478.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505478.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505478.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505478.3 > [INFO: SPHERE    ] -- Default route:
+1566505478.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505478.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505478.3 > [INFO: SPHERE    ] ----------------------
+1566505478.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93361.30949258804}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:24:56.994464Z", "type": "HEARTBEAT"}
+1566505538.2 > 
+1566505538.2 > LINK STATS to 1: 60 60 1
+1566505538.2 > drop: 0 181 0
+1566505538.3 > [INFO: SPHERE    ] --- Network status ---
+1566505538.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505538.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505538.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505538.3 > [INFO: SPHERE    ] -- Default route:
+1566505538.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505538.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505538.3 > [INFO: SPHERE    ] ----------------------
+1566505538.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93421.34281635284}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:25:57.027772Z", "type": "HEARTBEAT"}
+1566505585.6 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566505585.6 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566505585.6 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:1] is going to be freed
+1566505585.8 > [INFO: MSF       ] reserved a cell at slot_offset:81, channel_offset:2
+1566505585.8 > [INFO: MSF       ] reserved a cell at slot_offset:3, channel_offset:0
+1566505585.8 > [INFO: MSF       ] reserved a cell at slot_offset:63, channel_offset:6
+1566505585.8 > [INFO: MSF       ] reserved a cell at slot_offset:7, channel_offset:1
+1566505585.8 > [INFO: MSF       ] reserved a cell at slot_offset:55, channel_offset:2
+1566505585.8 > [ERR : MSF       ] ADD transaction failed
+1566505585.8 > [INFO: MSF       ] released a reserved cell at slot_offset:81, channel_offset:2
+1566505585.8 > [INFO: MSF       ] released a reserved cell at slot_offset:3, channel_offset:0
+1566505585.8 > [INFO: MSF       ] released a reserved cell at slot_offset:63, channel_offset:6
+1566505585.8 > [INFO: MSF       ] released a reserved cell at slot_offset:7, channel_offset:1
+1566505585.8 > [INFO: MSF       ] released a reserved cell at slot_offset:55, channel_offset:2
+1566505585.8 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566505598.2 > 
+1566505598.2 > LINK STATS to 1: 61 61 1
+1566505598.2 > drop: 0 181 0
+1566505598.3 > [INFO: SPHERE    ] --- Network status ---
+1566505598.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505598.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505598.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505598.3 > [INFO: SPHERE    ] -- Default route:
+1566505598.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505598.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505598.3 > [INFO: SPHERE    ] ----------------------
+1566505598.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93481.37716126442}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:26:57.061913Z", "type": "HEARTBEAT"}
+1566505658.2 > 
+1566505658.2 > LINK STATS to 1: 60 59 1
+1566505658.2 > drop: 0 182 0
+1566505658.2 > *** starting packetgen: 6 Hz
+1566505658.3 > [INFO: SPHERE    ] --- Network status ---
+1566505658.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505658.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505658.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505658.3 > [INFO: SPHERE    ] -- Default route:
+1566505658.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505658.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505658.3 > [INFO: SPHERE    ] ----------------------
+1566505658.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93541.41223740578}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:27:57.097525Z", "type": "HEARTBEAT"}
+1566505718.2 > 
+1566505718.2 > LINK STATS to 1: 61 61 1
+1566505718.2 > drop: 0 306 0
+1566505718.3 > [INFO: SPHERE    ] --- Network status ---
+1566505718.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505718.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505718.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505718.3 > [INFO: SPHERE    ] -- Default route:
+1566505718.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505718.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505718.3 > [INFO: SPHERE    ] ----------------------
+1566505718.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93601.44794988632}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:28:57.133040Z", "type": "HEARTBEAT"}
+1566505778.2 > 
+1566505778.2 > LINK STATS to 1: 61 59 1
+1566505778.2 > drop: 0 309 0
+1566505778.3 > [INFO: SPHERE    ] --- Network status ---
+1566505778.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505778.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505778.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505778.3 > [INFO: SPHERE    ] -- Default route:
+1566505778.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505778.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505778.3 > [INFO: SPHERE    ] ----------------------
+1566505778.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [[{"n": "UID", "v": "serial"}, {"n": "NUM_MESSAGES", "v": 290}, {"n": "NUM_TOTAL_MESSAGES", "v": 290}]], "bt": "2019-08-22T20:29:57.139358Z", "type": "PDR", "mc": 26}
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93661.48381781578}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:29:57.172194Z", "type": "HEARTBEAT"}
+1566505799.8 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566505799.8 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566505799.8 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:2] is going to be freed
+1566505800.0 > [INFO: MSF       ] reserved a cell at slot_offset:30, channel_offset:3
+1566505800.0 > [INFO: MSF       ] reserved a cell at slot_offset:24, channel_offset:0
+1566505800.0 > [INFO: MSF       ] reserved a cell at slot_offset:70, channel_offset:1
+1566505800.0 > [INFO: MSF       ] reserved a cell at slot_offset:15, channel_offset:1
+1566505800.0 > [INFO: MSF       ] reserved a cell at slot_offset:26, channel_offset:0
+1566505800.0 > [ERR : MSF       ] ADD transaction failed
+1566505800.0 > [INFO: MSF       ] released a reserved cell at slot_offset:30, channel_offset:3
+1566505800.0 > [INFO: MSF       ] released a reserved cell at slot_offset:24, channel_offset:0
+1566505800.0 > [INFO: MSF       ] released a reserved cell at slot_offset:70, channel_offset:1
+1566505800.0 > [INFO: MSF       ] released a reserved cell at slot_offset:15, channel_offset:1
+1566505800.0 > [INFO: MSF       ] released a reserved cell at slot_offset:26, channel_offset:0
+1566505800.0 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566505838.2 > 
+1566505838.2 > LINK STATS to 1: 60 60 1
+1566505838.2 > drop: 0 306 0
+1566505838.3 > [INFO: SPHERE    ] --- Network status ---
+1566505838.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505838.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505838.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505838.3 > [INFO: SPHERE    ] -- Default route:
+1566505838.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505838.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505838.3 > [INFO: SPHERE    ] ----------------------
+1566505838.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93721.52107453346}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:30:57.205880Z", "type": "HEARTBEAT"}
+1566505898.2 > 
+1566505898.2 > LINK STATS to 1: 61 61 1
+1566505898.2 > drop: 0 307 0
+1566505898.3 > [INFO: SPHERE    ] --- Network status ---
+1566505898.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505898.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505898.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505898.3 > [INFO: SPHERE    ] -- Default route:
+1566505898.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505898.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505898.3 > [INFO: SPHERE    ] ----------------------
+1566505898.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93781.55422592163}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:31:57.239284Z", "type": "HEARTBEAT"}
+1566505958.1 > *** starting packetgen: 8 Hz
+1566505958.2 > 
+1566505958.2 > LINK STATS to 1: 60 59 0
+1566505958.2 > drop: 0 307 0
+1566505958.3 > [INFO: SPHERE    ] --- Network status ---
+1566505958.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505958.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566505958.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566505958.3 > [INFO: SPHERE    ] -- Default route:
+1566505958.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505958.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505958.3 > [INFO: SPHERE    ] ----------------------
+1566505958.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93841.58731627464}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:32:57.272065Z", "type": "HEARTBEAT"}
+1566506014.0 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566506014.0 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566506014.0 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:3] is going to be freed
+1566506014.2 > [INFO: MSF       ] reserved a cell at slot_offset:19, channel_offset:1
+1566506014.2 > [INFO: MSF       ] reserved a cell at slot_offset:59, channel_offset:6
+1566506014.2 > [INFO: MSF       ] reserved a cell at slot_offset:43, channel_offset:2
+1566506014.2 > [INFO: MSF       ] reserved a cell at slot_offset:42, channel_offset:2
+1566506014.2 > [INFO: MSF       ] reserved a cell at slot_offset:49, channel_offset:4
+1566506014.3 > [ERR : MSF       ] ADD transaction failed
+1566506014.3 > [INFO: MSF       ] released a reserved cell at slot_offset:19, channel_offset:1
+1566506014.3 > [INFO: MSF       ] released a reserved cell at slot_offset:59, channel_offset:6
+1566506014.3 > [INFO: MSF       ] released a reserved cell at slot_offset:43, channel_offset:2
+1566506014.3 > [INFO: MSF       ] released a reserved cell at slot_offset:42, channel_offset:2
+1566506014.3 > [INFO: MSF       ] released a reserved cell at slot_offset:49, channel_offset:4
+1566506014.3 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566506018.2 > 
+1566506018.2 > LINK STATS to 1: 61 61 2
+1566506018.2 > drop: 0 422 0
+1566506018.3 > [INFO: SPHERE    ] --- Network status ---
+1566506018.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506018.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506018.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506018.3 > [INFO: SPHERE    ] -- Default route:
+1566506018.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506018.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506018.3 > [INFO: SPHERE    ] ----------------------
+1566506018.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93901.62197637558}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:33:57.306813Z", "type": "HEARTBEAT"}
+1566506078.2 > 
+1566506078.2 > LINK STATS to 1: 61 61 0
+1566506078.2 > drop: 0 419 0
+1566506078.3 > [INFO: SPHERE    ] --- Network status ---
+1566506078.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506078.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506078.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506078.3 > [INFO: SPHERE    ] -- Default route:
+1566506078.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506078.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506078.3 > [INFO: SPHERE    ] ----------------------
+1566506078.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 93961.65507674217}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:34:57.340150Z", "type": "HEARTBEAT"}
+1566506138.2 > 
+1566506138.2 > LINK STATS to 1: 60 60 2
+1566506138.2 > drop: 0 420 0
+1566506138.3 > [INFO: SPHERE    ] --- Network status ---
+1566506138.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506138.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506138.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506138.3 > [INFO: SPHERE    ] -- Default route:
+1566506138.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506138.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506138.3 > [INFO: SPHERE    ] ----------------------
+1566506138.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94021.68860149384}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:35:57.373545Z", "type": "HEARTBEAT"}
+1566506198.2 > 
+1566506198.2 > LINK STATS to 1: 60 60 0
+1566506198.2 > drop: 0 422 0
+1566506198.3 > [INFO: SPHERE    ] --- Network status ---
+1566506198.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506198.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506198.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506198.3 > [INFO: SPHERE    ] -- Default route:
+1566506198.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506198.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506198.3 > [INFO: SPHERE    ] ----------------------
+1566506198.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94081.72286987305}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:36:57.407428Z", "type": "HEARTBEAT"}
+1566506228.2 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566506228.2 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566506228.2 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:4] is going to be freed
+1566506228.5 > [INFO: MSF       ] reserved a cell at slot_offset:63, channel_offset:3
+1566506228.5 > [INFO: MSF       ] reserved a cell at slot_offset:28, channel_offset:3
+1566506228.5 > [INFO: MSF       ] reserved a cell at slot_offset:50, channel_offset:1
+1566506228.5 > [INFO: MSF       ] reserved a cell at slot_offset:29, channel_offset:1
+1566506228.5 > [INFO: MSF       ] reserved a cell at slot_offset:98, channel_offset:1
+1566506228.5 > [ERR : MSF       ] ADD transaction failed
+1566506228.5 > [INFO: MSF       ] released a reserved cell at slot_offset:63, channel_offset:3
+1566506228.5 > [INFO: MSF       ] released a reserved cell at slot_offset:28, channel_offset:3
+1566506228.5 > [INFO: MSF       ] released a reserved cell at slot_offset:50, channel_offset:1
+1566506228.5 > [INFO: MSF       ] released a reserved cell at slot_offset:29, channel_offset:1
+1566506228.5 > [INFO: MSF       ] released a reserved cell at slot_offset:98, channel_offset:1
+1566506228.5 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566506258.1 > *** starting packetgen: 10 Hz
+1566506258.2 > 
+1566506258.2 > LINK STATS to 1: 61 60 1
+1566506258.2 > drop: 0 422 0
+1566506258.3 > [INFO: SPHERE    ] --- Network status ---
+1566506258.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506258.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506258.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506258.3 > [INFO: SPHERE    ] -- Default route:
+1566506258.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506258.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506258.3 > [INFO: SPHERE    ] ----------------------
+1566506258.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94141.75556468964}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:37:57.440982Z", "type": "HEARTBEAT"}
+1566506318.2 > 
+1566506318.2 > LINK STATS to 1: 61 61 1
+1566506318.2 > drop: 0 579 0
+1566506318.3 > [INFO: SPHERE    ] --- Network status ---
+1566506318.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506318.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506318.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506318.3 > [INFO: SPHERE    ] -- Default route:
+1566506318.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506318.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506318.3 > [INFO: SPHERE    ] ----------------------
+1566506318.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94201.79085183144}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:38:57.476032Z", "type": "HEARTBEAT"}
+1566506378.2 > 
+1566506378.2 > LINK STATS to 1: 61 61 1
+1566506378.2 > drop: 0 580 0
+1566506378.3 > [INFO: SPHERE    ] --- Network status ---
+1566506378.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506378.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506378.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506378.3 > [INFO: SPHERE    ] -- Default route:
+1566506378.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506378.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506378.3 > [INFO: SPHERE    ] ----------------------
+1566506378.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94261.82706856728}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:39:57.512093Z", "type": "HEARTBEAT"}
+1566506438.1 > 
+1566506438.2 > LINK STATS to 1: 60 58 1
+1566506438.2 > drop: 0 581 0
+1566506438.3 > [INFO: SPHERE    ] --- Network status ---
+1566506438.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506438.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506438.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506438.3 > [INFO: SPHERE    ] -- Default route:
+1566506438.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506438.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506438.3 > [INFO: SPHERE    ] ----------------------
+1566506438.3 > Since last CoAP message / ACK: 0
+1566506442.5 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566506442.5 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566506442.5 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:5] is going to be freed
+1566506442.7 > [INFO: MSF       ] reserved a cell at slot_offset:87, channel_offset:5
+1566506442.7 > [INFO: MSF       ] reserved a cell at slot_offset:22, channel_offset:2
+1566506442.7 > [INFO: MSF       ] reserved a cell at slot_offset:11, channel_offset:0
+1566506442.7 > [INFO: MSF       ] reserved a cell at slot_offset:48, channel_offset:2
+1566506442.7 > [INFO: MSF       ] reserved a cell at slot_offset:2, channel_offset:1
+1566506442.7 > [ERR : MSF       ] ADD transaction failed
+1566506442.7 > [INFO: MSF       ] released a reserved cell at slot_offset:87, channel_offset:5
+1566506442.7 > [INFO: MSF       ] released a reserved cell at slot_offset:22, channel_offset:2
+1566506442.7 > [INFO: MSF       ] released a reserved cell at slot_offset:11, channel_offset:0
+1566506442.7 > [INFO: MSF       ] released a reserved cell at slot_offset:48, channel_offset:2
+1566506442.7 > [INFO: MSF       ] released a reserved cell at slot_offset:2, channel_offset:1
+1566506442.7 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94321.8631863594}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:40:57.548621Z", "type": "HEARTBEAT"}
+1566506498.1 > 
+1566506498.1 > LINK STATS to 1: 61 61 1
+1566506498.1 > drop: 0 580 0
+1566506498.2 > [INFO: SPHERE    ] --- Network status ---
+1566506498.3 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506498.3 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506498.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506498.3 > [INFO: SPHERE    ] -- Default route:
+1566506498.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506498.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506498.3 > [INFO: SPHERE    ] ----------------------
+1566506498.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94381.8967602253}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:41:57.582376Z", "type": "HEARTBEAT"}
+1566506558.0 > *** starting packetgen: 12 Hz
+1566506558.1 > 
+1566506558.1 > LINK STATS to 1: 60 59 1
+1566506558.1 > drop: 0 581 0
+1566506558.2 > [INFO: SPHERE    ] --- Network status ---
+1566506558.2 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506558.2 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506558.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506558.3 > [INFO: SPHERE    ] -- Default route:
+1566506558.3 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506558.3 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506558.3 > [INFO: SPHERE    ] ----------------------
+1566506558.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94441.93005871773}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:42:57.615033Z", "type": "HEARTBEAT"}
+1566506618.1 > 
+1566506618.1 > LINK STATS to 1: 61 60 1
+1566506618.1 > drop: 0 708 0
+1566506618.2 > [INFO: SPHERE    ] --- Network status ---
+1566506618.2 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506618.2 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506618.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506618.2 > [INFO: SPHERE    ] -- Default route:
+1566506618.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506618.2 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506618.3 > [INFO: SPHERE    ] ----------------------
+1566506618.3 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94501.96336913109}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:43:57.648759Z", "type": "HEARTBEAT"}
+1566506656.7 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566506656.7 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566506656.7 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:6] is going to be freed
+1566506656.9 > [INFO: MSF       ] reserved a cell at slot_offset:2, channel_offset:5
+1566506656.9 > [INFO: MSF       ] reserved a cell at slot_offset:4, channel_offset:0
+1566506656.9 > [INFO: MSF       ] reserved a cell at slot_offset:83, channel_offset:3
+1566506656.9 > [INFO: MSF       ] reserved a cell at slot_offset:71, channel_offset:6
+1566506656.9 > [INFO: MSF       ] reserved a cell at slot_offset:38, channel_offset:3
+1566506656.9 > [ERR : MSF       ] ADD transaction failed
+1566506656.9 > [INFO: MSF       ] released a reserved cell at slot_offset:2, channel_offset:5
+1566506656.9 > [INFO: MSF       ] released a reserved cell at slot_offset:4, channel_offset:0
+1566506656.9 > [INFO: MSF       ] released a reserved cell at slot_offset:83, channel_offset:3
+1566506656.9 > [INFO: MSF       ] released a reserved cell at slot_offset:71, channel_offset:6
+1566506657.0 > [INFO: MSF       ] released a reserved cell at slot_offset:38, channel_offset:3
+1566506657.0 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566506678.1 > 
+1566506678.1 > LINK STATS to 1: 61 59 0
+1566506678.1 > drop: 0 708 0
+1566506678.2 > [INFO: SPHERE    ] --- Network status ---
+1566506678.2 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506678.2 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506678.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506678.2 > [INFO: SPHERE    ] -- Default route:
+1566506678.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506678.2 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506678.2 > [INFO: SPHERE    ] ----------------------
+1566506678.2 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94561.99770760536}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:44:57.682781Z", "type": "HEARTBEAT"}
+1566506738.1 > 
+1566506738.1 > LINK STATS to 1: 60 60 1
+1566506738.1 > drop: 0 707 0
+1566506738.2 > [INFO: SPHERE    ] --- Network status ---
+1566506738.2 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506738.2 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506738.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506738.2 > [INFO: SPHERE    ] -- Default route:
+1566506738.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506738.2 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506738.2 > [INFO: SPHERE    ] ----------------------
+1566506738.2 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94622.03192973137}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:45:57.716758Z", "type": "HEARTBEAT"}
+1566506798.1 > 
+1566506798.1 > LINK STATS to 1: 61 61 1
+1566506798.1 > drop: 0 707 0
+1566506798.2 > [INFO: SPHERE    ] --- Network status ---
+1566506798.2 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506798.2 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506798.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506798.2 > [INFO: SPHERE    ] -- Default route:
+1566506798.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506798.2 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506798.2 > [INFO: SPHERE    ] ----------------------
+1566506798.2 > Since last CoAP message / ACK: 0
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 94682.06531143188}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T20:46:57.749943Z", "type": "HEARTBEAT"}
+1566506858.0 > *** ending packetgen
+1566506858.1 > 
+1566506858.1 > LINK STATS to 1: 59 59 1
+1566506858.1 > drop: 0 707 0
+1566506858.2 > [INFO: SPHERE    ] --- Network status ---
+1566506858.2 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506858.2 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566506858.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566506858.2 > [INFO: SPHERE    ] -- Default route:
+1566506858.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506858.2 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506858.2 > [INFO: SPHERE    ] ----------------------
+1566506858.2 > Since last CoAP message / ACK: 0

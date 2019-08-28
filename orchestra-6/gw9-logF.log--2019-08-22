@@ -1,0 +1,381 @@
+1566499410.9 > CoAP try to register
+1566499410.9 > CoAP reg response: MID=26521, Type=2
+1566499410.9 > CoAP reg success
+1566499465.9 > maxevents=3
+1566499465.9 > 
+1566499465.9 > LINK STATS to 1: 8 8 5
+1566499465.9 > drop: 0 0 0
+1566499465.9 > [INFO: SPHERE    ] --- Network status ---
+1566499465.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499465.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566499465.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566499465.9 > [INFO: SPHERE    ] -- Default route:
+1566499465.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499465.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499465.9 > [INFO: SPHERE    ] ----------------------
+1566499465.9 > Since last CoAP message / ACK: 37
+1566499525.9 > 
+1566499525.9 > LINK STATS to 1: 33 31 1
+1566499525.9 > drop: 0 0 0
+1566499525.9 > [INFO: SPHERE    ] --- Network status ---
+1566499525.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499525.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566499525.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566499525.9 > [INFO: SPHERE    ] -- Default route:
+1566499525.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499525.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499525.9 > [INFO: SPHERE    ] ----------------------
+1566499525.9 > Since last CoAP message / ACK: 97
+1566499585.8 > 
+1566499585.8 > LINK STATS to 1: 35 31 1
+1566499585.8 > drop: 0 0 0
+1566499585.9 > [INFO: SPHERE    ] --- Network status ---
+1566499585.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499585.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566499585.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566499585.9 > [INFO: SPHERE    ] -- Default route:
+1566499585.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499585.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499585.9 > [INFO: SPHERE    ] ----------------------
+1566499585.9 > Since last CoAP message / ACK: 157
+1566499585.9 > *** starting packetgen: 2 Hz
+1566499645.7 > 
+1566499645.7 > LINK STATS to 1: 133 123 1
+1566499645.7 > drop: 0 0 0
+1566499645.9 > [INFO: SPHERE    ] --- Network status ---
+1566499645.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499645.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566499645.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566499645.9 > [INFO: SPHERE    ] -- Default route:
+1566499645.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499645.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499645.9 > [INFO: SPHERE    ] ----------------------
+1566499645.9 > Since last CoAP message / ACK: 217
+1566499705.7 > 
+1566499705.7 > LINK STATS to 1: 128 121 0
+1566499705.7 > drop: 0 0 0
+1566499705.9 > [INFO: SPHERE    ] --- Network status ---
+1566499705.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499705.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566499705.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566499705.9 > [INFO: SPHERE    ] -- Default route:
+1566499705.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499705.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499705.9 > [INFO: SPHERE    ] ----------------------
+1566499705.9 > Since last CoAP message / ACK: 277
+1566499705.9 > *** starting packetgen: 4 Hz
+1566499765.7 > 
+1566499765.7 > LINK STATS to 1: 266 241 1
+1566499765.7 > drop: 0 0 0
+1566499765.9 > [INFO: SPHERE    ] --- Network status ---
+1566499765.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499765.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566499765.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566499765.9 > [INFO: SPHERE    ] -- Default route:
+1566499765.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499765.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499765.9 > [INFO: SPHERE    ] ----------------------
+1566499765.9 > Since last CoAP message / ACK: 337
+1566499825.8 > 
+1566499825.8 > LINK STATS to 1: 264 242 1
+1566499825.8 > drop: 0 0 0
+1566499825.9 > [INFO: SPHERE    ] --- Network status ---
+1566499825.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499825.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566499825.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566499825.9 > [INFO: SPHERE    ] -- Default route:
+1566499825.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499825.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499825.9 > [INFO: SPHERE    ] ----------------------
+1566499825.9 > Since last CoAP message / ACK: 397
+1566499885.8 > 
+1566499885.8 > LINK STATS to 1: 262 242 1
+1566499885.8 > drop: 0 0 0
+1566499885.9 > [INFO: SPHERE    ] --- Network status ---
+1566499885.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499885.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566499885.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566499885.9 > [INFO: SPHERE    ] -- Default route:
+1566499885.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499885.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499885.9 > [INFO: SPHERE    ] ----------------------
+1566499885.9 > Since last CoAP message / ACK: 457
+1566499945.8 > maxevents=4
+1566499945.8 > 
+1566499945.8 > LINK STATS to 1: 264 242 1
+1566499945.8 > drop: 0 0 0
+1566499945.9 > [INFO: SPHERE    ] --- Network status ---
+1566499945.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499945.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566499945.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566499945.9 > [INFO: SPHERE    ] -- Default route:
+1566499945.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499945.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499946.0 > [INFO: SPHERE    ] ----------------------
+1566499946.0 > Since last CoAP message / ACK: 517
+1566500005.7 > 
+1566500005.7 > LINK STATS to 1: 254 242 1
+1566500005.7 > drop: 0 0 0
+1566500005.9 > *** starting packetgen: 6 Hz
+1566500005.9 > [INFO: SPHERE    ] --- Network status ---
+1566500005.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500005.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500005.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500005.9 > [INFO: SPHERE    ] -- Default route:
+1566500005.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500005.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500005.9 > [INFO: SPHERE    ] ----------------------
+1566500005.9 > Since last CoAP message / ACK: 577
+1566500065.8 > 
+1566500065.8 > LINK STATS to 1: 394 365 1
+1566500065.8 > drop: 0 0 0
+1566500065.8 > [INFO: SPHERE    ] --- Network status ---
+1566500065.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500066.0 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500066.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500066.0 > [INFO: SPHERE    ] -- Default route:
+1566500066.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500066.0 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500066.0 > [INFO: SPHERE    ] ----------------------
+1566500066.0 > Since last CoAP message / ACK: 637
+1566500125.7 > 
+1566500125.7 > LINK STATS to 1: 396 364 1
+1566500125.7 > drop: 0 0 0
+1566500125.9 > maxevents=1
+1566500125.9 > [INFO: SPHERE    ] --- Network status ---
+1566500125.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500125.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500125.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500125.9 > [INFO: SPHERE    ] -- Default route:
+1566500125.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500125.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500125.9 > [INFO: SPHERE    ] ----------------------
+1566500125.9 > Since last CoAP message / ACK: 697
+1566500126.8 > maxevents=2
+1566500133.8 > maxevents=3
+1566500185.8 > maxevents=4
+1566500185.8 > 
+1566500185.8 > LINK STATS to 1: 387 366 1
+1566500185.8 > drop: 0 0 0
+1566500185.8 > [INFO: SPHERE    ] --- Network status ---
+1566500185.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500185.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500185.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500185.8 > [INFO: SPHERE    ] -- Default route:
+1566500185.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500185.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500185.9 > [INFO: SPHERE    ] ----------------------
+1566500185.9 > Since last CoAP message / ACK: 757
+1566500245.7 > 
+1566500245.7 > LINK STATS to 1: 404 363 1
+1566500245.7 > drop: 0 0 0
+1566500245.9 > [INFO: SPHERE    ] --- Network status ---
+1566500245.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500245.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500245.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500245.9 > [INFO: SPHERE    ] -- Default route:
+1566500245.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500245.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500245.9 > [INFO: SPHERE    ] ----------------------
+1566500245.9 > Since last CoAP message / ACK: 817
+1566500305.7 > *** starting packetgen: 8 Hz
+1566500305.7 > 
+1566500305.7 > LINK STATS to 1: 402 364 0
+1566500305.7 > drop: 0 0 0
+1566500305.8 > [INFO: SPHERE    ] --- Network status ---
+1566500305.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500305.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500305.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500305.9 > [INFO: SPHERE    ] -- Default route:
+1566500305.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500305.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500305.9 > [INFO: SPHERE    ] ----------------------
+1566500305.9 > Since last CoAP message / ACK: 877
+1566500365.7 > 
+1566500365.7 > LINK STATS to 1: 557 483 2
+1566500365.7 > drop: 0 0 0
+1566500365.8 > [INFO: SPHERE    ] --- Network status ---
+1566500365.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500365.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500365.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500365.8 > [INFO: SPHERE    ] -- Default route:
+1566500365.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500365.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500365.9 > [INFO: SPHERE    ] ----------------------
+1566500365.9 > Since last CoAP message / ACK: 937
+1566500425.7 > 
+1566500425.7 > LINK STATS to 1: 544 482 1
+1566500425.7 > drop: 0 0 0
+1566500425.9 > [INFO: SPHERE    ] --- Network status ---
+1566500425.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500425.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500425.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500425.9 > [INFO: SPHERE    ] -- Default route:
+1566500425.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500425.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500425.9 > [INFO: SPHERE    ] ----------------------
+1566500425.9 > Since last CoAP message / ACK: 997
+1566500485.7 > 
+1566500485.7 > LINK STATS to 1: 532 480 0
+1566500485.7 > drop: 0 0 0
+1566500485.9 > [INFO: SPHERE    ] --- Network status ---
+1566500485.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500485.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500485.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500485.9 > [INFO: SPHERE    ] -- Default route:
+1566500485.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500485.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500485.9 > [INFO: SPHERE    ] ----------------------
+1566500485.9 > Since last CoAP message / ACK: 1057
+1566500545.7 > 
+1566500545.7 > LINK STATS to 1: 556 482 1
+1566500545.7 > drop: 0 0 0
+1566500545.9 > [INFO: SPHERE    ] --- Network status ---
+1566500545.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500545.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500545.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500545.9 > [INFO: SPHERE    ] -- Default route:
+1566500545.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500545.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500545.9 > [INFO: SPHERE    ] ----------------------
+1566500545.9 > Since last CoAP message / ACK: 1117
+1566500605.6 > *** starting packetgen: 10 Hz
+1566500605.7 > 
+1566500605.7 > LINK STATS to 1: 531 482 1
+1566500605.7 > drop: 0 0 0
+1566500605.9 > [INFO: SPHERE    ] --- Network status ---
+1566500605.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500605.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500605.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500605.9 > [INFO: SPHERE    ] -- Default route:
+1566500605.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500605.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500605.9 > [INFO: SPHERE    ] ----------------------
+1566500605.9 > Since last CoAP message / ACK: 1177
+1566500665.7 > 
+1566500665.7 > LINK STATS to 1: 742 638 1
+1566500665.7 > drop: 0 0 0
+1566500665.9 > [INFO: SPHERE    ] --- Network status ---
+1566500665.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500665.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500665.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500665.9 > [INFO: SPHERE    ] -- Default route:
+1566500665.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500665.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500665.9 > [INFO: SPHERE    ] ----------------------
+1566500665.9 > Since last CoAP message / ACK: 1237
+1566500725.7 > 
+1566500725.7 > LINK STATS to 1: 728 640 1
+1566500725.7 > drop: 0 0 0
+1566500725.9 > [INFO: SPHERE    ] --- Network status ---
+1566500725.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500725.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500725.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500725.9 > [INFO: SPHERE    ] -- Default route:
+1566500725.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500725.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500725.9 > [INFO: SPHERE    ] ----------------------
+1566500725.9 > Since last CoAP message / ACK: 1297
+1566500785.7 > 
+1566500785.7 > LINK STATS to 1: 716 637 1
+1566500785.7 > drop: 0 0 0
+1566500785.8 > [INFO: SPHERE    ] --- Network status ---
+1566500785.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500785.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500785.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500785.8 > [INFO: SPHERE    ] -- Default route:
+1566500785.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500785.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500785.8 > [INFO: SPHERE    ] ----------------------
+1566500785.8 > Since last CoAP message / ACK: 1357
+1566500845.7 > 
+1566500845.7 > LINK STATS to 1: 714 637 1
+1566500845.7 > drop: 0 0 0
+1566500845.8 > maxevents=1
+1566500845.8 > [INFO: SPHERE    ] --- Network status ---
+1566500845.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500845.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500845.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500845.9 > [INFO: SPHERE    ] -- Default route:
+1566500845.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500845.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500845.9 > [INFO: SPHERE    ] ----------------------
+1566500845.9 > Since last CoAP message / ACK: 1417
+1566500846.8 > maxevents=2
+1566500846.8 > maxevents=3
+1566500905.6 > *** starting packetgen: 12 Hz
+1566500905.7 > 
+1566500905.7 > LINK STATS to 1: 717 641 1
+1566500905.7 > drop: 0 0 0
+1566500905.9 > [INFO: SPHERE    ] --- Network status ---
+1566500905.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500905.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500905.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500905.9 > [INFO: SPHERE    ] -- Default route:
+1566500905.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500905.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500905.9 > [INFO: SPHERE    ] ----------------------
+1566500905.9 > Since last CoAP message / ACK: 1477
+1566500965.8 > 
+1566500965.8 > LINK STATS to 1: 931 762 1
+1566500965.8 > drop: 0 0 0
+1566500965.8 > [INFO: SPHERE    ] --- Network status ---
+1566500965.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500965.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566500965.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566500965.8 > [INFO: SPHERE    ] -- Default route:
+1566500965.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500965.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500965.8 > [INFO: SPHERE    ] ----------------------
+1566500965.8 > Since last CoAP message / ACK: 1537
+1566501025.8 > maxevents=4
+1566501025.8 > maxevents=5
+1566501025.8 > 
+1566501025.8 > LINK STATS to 1: 887 761 0
+1566501025.8 > drop: 0 0 0
+1566501025.8 > [INFO: SPHERE    ] --- Network status ---
+1566501025.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566501025.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566501025.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566501025.8 > [INFO: SPHERE    ] -- Default route:
+1566501025.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566501025.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566501025.8 > [INFO: SPHERE    ] ----------------------
+1566501025.8 > Since last CoAP message / ACK: 1597
+1566501085.7 > 
+1566501085.7 > LINK STATS to 1: 898 763 1
+1566501085.7 > drop: 0 0 0
+1566501085.8 > [INFO: SPHERE    ] --- Network status ---
+1566501085.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566501085.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566501085.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566501085.8 > [INFO: SPHERE    ] -- Default route:
+1566501085.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566501085.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566501085.8 > [INFO: SPHERE    ] ----------------------
+1566501085.8 > Since last CoAP message / ACK: 1657
+1566501145.7 > 
+1566501145.7 > LINK STATS to 1: 907 762 1
+1566501145.7 > drop: 0 0 0
+1566501145.9 > [INFO: SPHERE    ] --- Network status ---
+1566501145.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566501145.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566501145.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566501145.9 > [INFO: SPHERE    ] -- Default route:
+1566501145.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566501145.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566501145.9 > [INFO: SPHERE    ] ----------------------
+1566501145.9 > Since last CoAP message / ACK: 1717
+1566501205.5 > *** ending packetgen
+1566501205.6 > 
+1566501205.7 > LINK STATS to 1: 881 760 1
+1566501205.7 > drop: 0 0 0
+1566501205.8 > [INFO: SPHERE    ] --- Network status ---
+1566501205.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566501205.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566501205.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566501205.8 > [INFO: SPHERE    ] -- Default route:
+1566501205.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566501205.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566501205.8 > [INFO: SPHERE    ] ----------------------
+1566501205.8 > Since last CoAP message / ACK: 1777

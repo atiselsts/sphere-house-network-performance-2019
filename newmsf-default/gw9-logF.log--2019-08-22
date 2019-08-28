@@ -1,0 +1,549 @@
+1566505079.8 > CoAP: delay registration, TSCH is still not ready
+1566505080.9 > [INFO: MSF       ] MSF is activated
+1566505084.8 > CoAP: delay registration, RPL is still not ready
+1566505089.8 > CoAP: delay registration, RPL is still not ready
+1566505094.8 > CoAP: delay registration, RPL is still not ready
+1566505099.8 > CoAP: delay registration, RPL is still not ready
+1566505104.9 > CoAP: delay registration, RPL is still not ready
+1566505109.9 > CoAP: delay registration, RPL is still not ready
+1566505111.7 > [INFO: MSF       ] change our parent to 0012.4b00.0000.0001
+1566505111.7 > [INFO: MSF       ] reserved a cell at slot_offset:68, channel_offset:5
+1566505111.7 > [INFO: MSF       ] reserved a cell at slot_offset:35, channel_offset:0
+1566505111.7 > [INFO: MSF       ] reserved a cell at slot_offset:51, channel_offset:6
+1566505111.7 > [INFO: MSF       ] reserved a cell at slot_offset:38, channel_offset:0
+1566505111.7 > [INFO: MSF       ] reserved a cell at slot_offset:10, channel_offset:3
+1566505111.7 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566505112.0 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 3
+1566505112.9 > [INFO: 6top      ] 6P-pkt: sixp_pkt_parse() is processing [type:1, code:0, len:4]
+1566505112.9 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 3 to 7
+1566505112.9 > [INFO: MSF       ] released a reserved cell at slot_offset:68, channel_offset:5
+1566505112.9 > [INFO: MSF       ] released a reserved cell at slot_offset:35, channel_offset:0
+1566505112.9 > [INFO: MSF       ] released a reserved cell at slot_offset:51, channel_offset:6
+1566505112.9 > [INFO: MSF       ] released a reserved cell at slot_offset:38, channel_offset:0
+1566505112.9 > [INFO: MSF       ] released a reserved cell at slot_offset:10, channel_offset:3
+1566505112.9 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:68, channel_offset:5
+1566505112.9 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 7 to 11
+1566505112.9 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:0] is going to be freed
+1566505114.9 > CoAP try to register
+1566505120.7 > CoAP reg response: MID=62510, Type=2
+1566505120.7 > CoAP reg success
+1566505129.7 > 
+1566505129.7 > LINK STATS to 1: 5 4 3
+1566505129.7 > drop: 0 0 0
+1566505129.8 > [INFO: SPHERE    ] --- Network status ---
+1566505129.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505129.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505129.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505129.9 > [INFO: SPHERE    ] -- Default route:
+1566505129.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505129.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505129.9 > [INFO: SPHERE    ] ----------------------
+1566505129.9 > Since last CoAP message / ACK: 8
+1566505189.7 > 
+1566505189.7 > LINK STATS to 1: 32 31 1
+1566505189.7 > drop: 0 0 0
+1566505189.8 > [INFO: SPHERE    ] --- Network status ---
+1566505189.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505189.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505189.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505189.8 > [INFO: SPHERE    ] -- Default route:
+1566505189.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505189.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505189.9 > [INFO: SPHERE    ] ----------------------
+1566505189.9 > Since last CoAP message / ACK: 0
+1566505249.7 > 
+1566505249.7 > LINK STATS to 1: 35 32 1
+1566505249.7 > drop: 0 0 0
+1566505249.9 > [INFO: SPHERE    ] --- Network status ---
+1566505249.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505249.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505249.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505249.9 > [INFO: SPHERE    ] -- Default route:
+1566505249.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505249.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505249.9 > [INFO: SPHERE    ] ----------------------
+1566505249.9 > Since last CoAP message / ACK: 2
+1566505249.9 > *** starting packetgen: 2 Hz
+1566505309.7 > 
+1566505309.7 > LINK STATS to 1: 61 58 1
+1566505309.7 > drop: 0 57 0
+1566505309.8 > [INFO: SPHERE    ] --- Network status ---
+1566505309.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505309.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505309.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505309.9 > [INFO: SPHERE    ] -- Default route:
+1566505309.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505309.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505309.9 > [INFO: SPHERE    ] ----------------------
+1566505309.9 > Since last CoAP message / ACK: 1
+1566505344.3 > [INFO: MSF       ] reserved a cell at slot_offset:57, channel_offset:4
+1566505344.3 > [INFO: MSF       ] reserved a cell at slot_offset:9, channel_offset:3
+1566505344.3 > [INFO: MSF       ] reserved a cell at slot_offset:84, channel_offset:5
+1566505344.3 > [INFO: MSF       ] reserved a cell at slot_offset:94, channel_offset:4
+1566505344.3 > [INFO: MSF       ] reserved a cell at slot_offset:92, channel_offset:1
+1566505344.3 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566505350.8 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 3
+1566505351.4 > [INFO: 6top      ] 6P-pkt: sixp_pkt_parse() is processing [type:1, code:0, len:4]
+1566505351.4 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 3 to 7
+1566505351.4 > [INFO: MSF       ] released a reserved cell at slot_offset:57, channel_offset:4
+1566505351.4 > [INFO: MSF       ] released a reserved cell at slot_offset:9, channel_offset:3
+1566505351.4 > [INFO: MSF       ] released a reserved cell at slot_offset:84, channel_offset:5
+1566505351.5 > [INFO: MSF       ] released a reserved cell at slot_offset:94, channel_offset:4
+1566505351.5 > [INFO: MSF       ] released a reserved cell at slot_offset:92, channel_offset:1
+1566505351.5 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:57, channel_offset:4
+1566505351.5 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 7 to 11
+1566505351.5 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:1] is going to be freed
+1566505369.6 > 
+1566505369.7 > LINK STATS to 1: 78 75 2
+1566505369.7 > drop: 0 48 0
+1566505369.8 > [INFO: SPHERE    ] --- Network status ---
+1566505369.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505369.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505369.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505369.8 > [INFO: SPHERE    ] -- Default route:
+1566505369.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505369.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505369.8 > [INFO: SPHERE    ] ----------------------
+1566505369.8 > Since last CoAP message / ACK: 1
+1566505370.0 > *** starting packetgen: 4 Hz
+1566505386.9 > [INFO: MSF       ] reserved a cell at slot_offset:67, channel_offset:3
+1566505386.9 > [INFO: MSF       ] reserved a cell at slot_offset:46, channel_offset:4
+1566505386.9 > [INFO: MSF       ] reserved a cell at slot_offset:9, channel_offset:2
+1566505386.9 > [INFO: MSF       ] reserved a cell at slot_offset:75, channel_offset:1
+1566505386.9 > [INFO: MSF       ] reserved a cell at slot_offset:95, channel_offset:1
+1566505386.9 > [ERR : MSF       ] ADD transaction failed
+1566505386.9 > [INFO: MSF       ] released a reserved cell at slot_offset:67, channel_offset:3
+1566505386.9 > [INFO: MSF       ] released a reserved cell at slot_offset:46, channel_offset:4
+1566505386.9 > [INFO: MSF       ] released a reserved cell at slot_offset:9, channel_offset:2
+1566505386.9 > [INFO: MSF       ] released a reserved cell at slot_offset:75, channel_offset:1
+1566505386.9 > [INFO: MSF       ] released a reserved cell at slot_offset:95, channel_offset:1
+1566505386.9 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566505429.6 > 
+1566505429.6 > LINK STATS to 1: 119 113 0
+1566505429.6 > drop: 0 126 0
+1566505429.8 > [INFO: SPHERE    ] --- Network status ---
+1566505429.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505429.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505429.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505429.8 > [INFO: SPHERE    ] -- Default route:
+1566505429.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505429.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505429.8 > [INFO: SPHERE    ] ----------------------
+1566505429.8 > Since last CoAP message / ACK: 0
+1566505489.7 > 
+1566505489.7 > LINK STATS to 1: 123 113 1
+1566505489.7 > drop: 0 130 0
+1566505489.9 > [INFO: SPHERE    ] --- Network status ---
+1566505489.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505489.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505489.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505489.9 > [INFO: SPHERE    ] -- Default route:
+1566505489.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505489.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505489.9 > [INFO: SPHERE    ] ----------------------
+1566505489.9 > Since last CoAP message / ACK: 0
+1566505549.7 > 
+1566505549.7 > LINK STATS to 1: 120 110 1
+1566505549.7 > drop: 0 131 0
+1566505549.8 > [INFO: SPHERE    ] --- Network status ---
+1566505549.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505549.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505549.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505549.8 > [INFO: SPHERE    ] -- Default route:
+1566505549.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505549.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505549.8 > [INFO: SPHERE    ] ----------------------
+1566505549.8 > Since last CoAP message / ACK: 0
+1566505600.9 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566505600.9 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566505600.9 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:2] is going to be freed
+1566505601.1 > [INFO: MSF       ] reserved a cell at slot_offset:9, channel_offset:2
+1566505601.1 > [INFO: MSF       ] reserved a cell at slot_offset:89, channel_offset:5
+1566505601.1 > [INFO: MSF       ] reserved a cell at slot_offset:82, channel_offset:4
+1566505601.1 > [INFO: MSF       ] reserved a cell at slot_offset:75, channel_offset:4
+1566505601.1 > [INFO: MSF       ] reserved a cell at slot_offset:84, channel_offset:5
+1566505601.1 > [ERR : MSF       ] ADD transaction failed
+1566505601.1 > [INFO: MSF       ] released a reserved cell at slot_offset:9, channel_offset:2
+1566505601.1 > [INFO: MSF       ] released a reserved cell at slot_offset:89, channel_offset:5
+1566505601.1 > [INFO: MSF       ] released a reserved cell at slot_offset:82, channel_offset:4
+1566505601.1 > [INFO: MSF       ] released a reserved cell at slot_offset:75, channel_offset:4
+1566505601.1 > [INFO: MSF       ] released a reserved cell at slot_offset:84, channel_offset:5
+1566505601.1 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566505609.6 > 
+1566505609.6 > LINK STATS to 1: 122 118 1
+1566505609.6 > drop: 0 124 0
+1566505609.8 > [INFO: SPHERE    ] --- Network status ---
+1566505609.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505609.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505609.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505609.8 > [INFO: SPHERE    ] -- Default route:
+1566505609.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505609.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505609.8 > [INFO: SPHERE    ] ----------------------
+1566505609.8 > Since last CoAP message / ACK: 0
+1566505669.6 > *** starting packetgen: 6 Hz
+1566505669.7 > 
+1566505669.7 > LINK STATS to 1: 122 112 1
+1566505669.7 > drop: 0 130 0
+1566505669.9 > [INFO: SPHERE    ] --- Network status ---
+1566505669.9 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505669.9 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505669.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505669.9 > [INFO: SPHERE    ] -- Default route:
+1566505669.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505669.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505669.9 > [INFO: SPHERE    ] ----------------------
+1566505669.9 > Since last CoAP message / ACK: 0
+1566505729.6 > 
+1566505729.6 > LINK STATS to 1: 120 110 1
+1566505729.7 > drop: 0 257 0
+1566505729.8 > [INFO: SPHERE    ] --- Network status ---
+1566505729.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505729.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505729.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505729.8 > [INFO: SPHERE    ] -- Default route:
+1566505729.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505729.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505729.8 > [INFO: SPHERE    ] ----------------------
+1566505729.8 > Since last CoAP message / ACK: 0
+1566505789.7 > 
+1566505789.7 > LINK STATS to 1: 122 114 1
+1566505789.7 > drop: 0 253 0
+1566505789.7 > [INFO: SPHERE    ] --- Network status ---
+1566505789.7 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505789.7 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505789.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505789.7 > [INFO: SPHERE    ] -- Default route:
+1566505789.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505789.7 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505789.7 > [INFO: SPHERE    ] ----------------------
+1566505789.7 > Since last CoAP message / ACK: 0
+1566505815.2 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566505815.2 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566505815.2 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:3] is going to be freed
+1566505815.3 > [INFO: MSF       ] reserved a cell at slot_offset:53, channel_offset:1
+1566505815.3 > [INFO: MSF       ] reserved a cell at slot_offset:18, channel_offset:4
+1566505815.3 > [INFO: MSF       ] reserved a cell at slot_offset:7, channel_offset:6
+1566505815.3 > [INFO: MSF       ] reserved a cell at slot_offset:52, channel_offset:4
+1566505815.3 > [INFO: MSF       ] reserved a cell at slot_offset:13, channel_offset:6
+1566505815.3 > [ERR : MSF       ] ADD transaction failed
+1566505815.3 > [INFO: MSF       ] released a reserved cell at slot_offset:53, channel_offset:1
+1566505815.4 > [INFO: MSF       ] released a reserved cell at slot_offset:18, channel_offset:4
+1566505815.4 > [INFO: MSF       ] released a reserved cell at slot_offset:7, channel_offset:6
+1566505815.4 > [INFO: MSF       ] released a reserved cell at slot_offset:52, channel_offset:4
+1566505815.4 > [INFO: MSF       ] released a reserved cell at slot_offset:13, channel_offset:6
+1566505815.4 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566505849.7 > 
+1566505849.7 > LINK STATS to 1: 120 116 1
+1566505849.7 > drop: 0 251 0
+1566505849.7 > [INFO: SPHERE    ] --- Network status ---
+1566505849.7 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505849.7 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505849.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505849.7 > [INFO: SPHERE    ] -- Default route:
+1566505849.9 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505849.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505849.9 > [INFO: SPHERE    ] ----------------------
+1566505849.9 > Since last CoAP message / ACK: 0
+1566505909.7 > 
+1566505909.7 > LINK STATS to 1: 122 110 0
+1566505909.7 > drop: 0 256 0
+1566505909.8 > [INFO: SPHERE    ] --- Network status ---
+1566505909.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505909.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505909.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505909.8 > [INFO: SPHERE    ] -- Default route:
+1566505909.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505909.9 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505909.9 > [INFO: SPHERE    ] ----------------------
+1566505909.9 > Since last CoAP message / ACK: 0
+1566505969.6 > *** starting packetgen: 8 Hz
+1566505969.7 > 
+1566505969.7 > LINK STATS to 1: 121 113 0
+1566505969.7 > drop: 0 253 0
+1566505969.7 > [INFO: SPHERE    ] --- Network status ---
+1566505969.7 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566505969.7 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566505969.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566505969.7 > [INFO: SPHERE    ] -- Default route:
+1566505969.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566505969.7 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566505969.7 > [INFO: SPHERE    ] ----------------------
+1566505969.7 > Since last CoAP message / ACK: 0
+1566506029.4 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566506029.4 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566506029.4 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:4] is going to be freed
+1566506029.6 > [INFO: MSF       ] reserved a cell at slot_offset:97, channel_offset:3
+1566506029.6 > [INFO: MSF       ] reserved a cell at slot_offset:45, channel_offset:1
+1566506029.6 > [INFO: MSF       ] reserved a cell at slot_offset:60, channel_offset:5
+1566506029.6 > [INFO: MSF       ] reserved a cell at slot_offset:66, channel_offset:3
+1566506029.6 > [INFO: MSF       ] reserved a cell at slot_offset:1, channel_offset:3
+1566506029.6 > [ERR : MSF       ] ADD transaction failed
+1566506029.6 > [INFO: MSF       ] released a reserved cell at slot_offset:97, channel_offset:3
+1566506029.6 > [INFO: MSF       ] released a reserved cell at slot_offset:45, channel_offset:1
+1566506029.6 > [INFO: MSF       ] released a reserved cell at slot_offset:60, channel_offset:5
+1566506029.6 > [INFO: MSF       ] released a reserved cell at slot_offset:66, channel_offset:3
+1566506029.6 > [INFO: MSF       ] released a reserved cell at slot_offset:1, channel_offset:3
+1566506029.6 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566506029.7 > 
+1566506029.7 > LINK STATS to 1: 121 117 1
+1566506029.7 > drop: 0 365 0
+1566506029.8 > [INFO: SPHERE    ] --- Network status ---
+1566506029.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506029.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506029.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506029.8 > [INFO: SPHERE    ] -- Default route:
+1566506029.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506029.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506029.8 > [INFO: SPHERE    ] ----------------------
+1566506029.8 > Since last CoAP message / ACK: 0
+1566506089.7 > 
+1566506089.7 > LINK STATS to 1: 122 113 0
+1566506089.7 > drop: 0 366 0
+1566506089.7 > [INFO: SPHERE    ] --- Network status ---
+1566506089.7 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506089.7 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506089.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506089.7 > [INFO: SPHERE    ] -- Default route:
+1566506089.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506089.7 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506089.8 > [INFO: SPHERE    ] ----------------------
+1566506089.8 > Since last CoAP message / ACK: 0
+1566506149.6 > 
+1566506149.6 > LINK STATS to 1: 121 110 2
+1566506149.6 > drop: 0 371 0
+1566506149.8 > [INFO: SPHERE    ] --- Network status ---
+1566506149.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506149.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506149.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506149.8 > [INFO: SPHERE    ] -- Default route:
+1566506149.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506149.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506149.8 > [INFO: SPHERE    ] ----------------------
+1566506149.8 > Since last CoAP message / ACK: 0
+1566506209.6 > 
+1566506209.6 > LINK STATS to 1: 121 115 0
+1566506209.6 > drop: 0 364 0
+1566506209.8 > [INFO: SPHERE    ] --- Network status ---
+1566506209.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506209.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506209.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506209.8 > [INFO: SPHERE    ] -- Default route:
+1566506209.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506209.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506209.8 > [INFO: SPHERE    ] ----------------------
+1566506209.8 > Since last CoAP message / ACK: 0
+1566506243.6 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566506243.6 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566506243.6 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:5] is going to be freed
+1566506243.8 > [INFO: MSF       ] reserved a cell at slot_offset:69, channel_offset:4
+1566506243.8 > [INFO: MSF       ] reserved a cell at slot_offset:76, channel_offset:2
+1566506243.8 > [INFO: MSF       ] reserved a cell at slot_offset:91, channel_offset:5
+1566506243.8 > [INFO: MSF       ] reserved a cell at slot_offset:45, channel_offset:5
+1566506243.8 > [INFO: MSF       ] reserved a cell at slot_offset:18, channel_offset:6
+1566506243.8 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566506247.7 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 3
+1566506248.3 > [INFO: 6top      ] 6P-pkt: sixp_pkt_parse() is processing [type:1, code:0, len:4]
+1566506248.3 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 3 to 7
+1566506248.3 > [INFO: MSF       ] released a reserved cell at slot_offset:69, channel_offset:4
+1566506248.3 > [INFO: MSF       ] released a reserved cell at slot_offset:76, channel_offset:2
+1566506248.3 > [INFO: MSF       ] released a reserved cell at slot_offset:91, channel_offset:5
+1566506248.3 > [INFO: MSF       ] released a reserved cell at slot_offset:45, channel_offset:5
+1566506248.3 > [INFO: MSF       ] released a reserved cell at slot_offset:18, channel_offset:6
+1566506248.3 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:69, channel_offset:4
+1566506248.3 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 7 to 11
+1566506248.3 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:6] is going to be freed
+1566506267.1 > [INFO: MSF       ] reserved a cell at slot_offset:87, channel_offset:3
+1566506267.1 > [INFO: MSF       ] reserved a cell at slot_offset:1, channel_offset:3
+1566506267.1 > [INFO: MSF       ] reserved a cell at slot_offset:28, channel_offset:2
+1566506267.1 > [INFO: MSF       ] reserved a cell at slot_offset:64, channel_offset:4
+1566506267.1 > [INFO: MSF       ] reserved a cell at slot_offset:70, channel_offset:2
+1566506267.1 > [ERR : MSF       ] ADD transaction failed
+1566506267.1 > [INFO: MSF       ] released a reserved cell at slot_offset:87, channel_offset:3
+1566506267.1 > [INFO: MSF       ] released a reserved cell at slot_offset:1, channel_offset:3
+1566506267.1 > [INFO: MSF       ] released a reserved cell at slot_offset:28, channel_offset:2
+1566506267.1 > [INFO: MSF       ] released a reserved cell at slot_offset:64, channel_offset:4
+1566506267.1 > [INFO: MSF       ] released a reserved cell at slot_offset:70, channel_offset:2
+1566506267.1 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566506269.6 > *** starting packetgen: 10 Hz
+1566506269.7 > 
+1566506269.7 > LINK STATS to 1: 143 137 2
+1566506269.7 > drop: 0 346 0
+1566506269.7 > [INFO: SPHERE    ] --- Network status ---
+1566506269.7 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506269.7 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506269.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506269.7 > [INFO: SPHERE    ] -- Default route:
+1566506269.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506269.7 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506269.8 > [INFO: SPHERE    ] ----------------------
+1566506269.8 > Since last CoAP message / ACK: 0
+1566506329.6 > 
+1566506329.6 > LINK STATS to 1: 180 161 1
+1566506329.6 > drop: 0 479 0
+1566506329.8 > [INFO: SPHERE    ] --- Network status ---
+1566506329.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506329.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506329.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506329.8 > [INFO: SPHERE    ] -- Default route:
+1566506329.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506329.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506329.8 > [INFO: SPHERE    ] ----------------------
+1566506329.8 > Since last CoAP message / ACK: 0
+1566506389.6 > 
+1566506389.6 > LINK STATS to 1: 183 166 1
+1566506389.6 > drop: 0 473 0
+1566506389.8 > [INFO: SPHERE    ] --- Network status ---
+1566506389.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506389.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506389.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506389.8 > [INFO: SPHERE    ] -- Default route:
+1566506389.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506389.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506389.8 > [INFO: SPHERE    ] ----------------------
+1566506389.8 > Since last CoAP message / ACK: 0
+1566506449.6 > 
+1566506449.6 > LINK STATS to 1: 181 167 1
+1566506449.6 > drop: 0 473 0
+1566506449.8 > [INFO: SPHERE    ] --- Network status ---
+1566506449.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506449.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506449.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506449.8 > [INFO: SPHERE    ] -- Default route:
+1566506449.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506449.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506449.8 > [INFO: SPHERE    ] ----------------------
+1566506449.8 > Since last CoAP message / ACK: 0
+1566506481.0 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566506481.0 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566506481.0 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:7] is going to be freed
+1566506481.3 > [INFO: MSF       ] reserved a cell at slot_offset:72, channel_offset:5
+1566506481.3 > [INFO: MSF       ] reserved a cell at slot_offset:53, channel_offset:4
+1566506481.3 > [INFO: MSF       ] reserved a cell at slot_offset:74, channel_offset:6
+1566506481.3 > [INFO: MSF       ] reserved a cell at slot_offset:83, channel_offset:6
+1566506481.3 > [INFO: MSF       ] reserved a cell at slot_offset:44, channel_offset:1
+1566506481.3 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566506484.3 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 3
+1566506484.8 > [INFO: 6top      ] 6P-pkt: sixp_pkt_parse() is processing [type:1, code:0, len:4]
+1566506485.0 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 3 to 7
+1566506485.0 > [INFO: MSF       ] released a reserved cell at slot_offset:72, channel_offset:5
+1566506485.0 > [INFO: MSF       ] released a reserved cell at slot_offset:53, channel_offset:4
+1566506485.0 > [INFO: MSF       ] released a reserved cell at slot_offset:74, channel_offset:6
+1566506485.0 > [INFO: MSF       ] released a reserved cell at slot_offset:83, channel_offset:6
+1566506485.0 > [INFO: MSF       ] released a reserved cell at slot_offset:44, channel_offset:1
+1566506485.0 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:72, channel_offset:5
+1566506485.0 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 7 to 11
+1566506485.0 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:8] is going to be freed
+1566506499.1 > [INFO: MSF       ] reserved a cell at slot_offset:36, channel_offset:6
+1566506499.1 > [INFO: MSF       ] reserved a cell at slot_offset:17, channel_offset:3
+1566506499.1 > [INFO: MSF       ] reserved a cell at slot_offset:81, channel_offset:4
+1566506499.1 > [INFO: MSF       ] reserved a cell at slot_offset:91, channel_offset:6
+1566506499.1 > [INFO: MSF       ] reserved a cell at slot_offset:73, channel_offset:4
+1566506499.1 > [ERR : MSF       ] ADD transaction failed
+1566506499.1 > [INFO: MSF       ] released a reserved cell at slot_offset:36, channel_offset:6
+1566506499.1 > [INFO: MSF       ] released a reserved cell at slot_offset:17, channel_offset:3
+1566506499.1 > [INFO: MSF       ] released a reserved cell at slot_offset:81, channel_offset:4
+1566506499.1 > [INFO: MSF       ] released a reserved cell at slot_offset:91, channel_offset:6
+1566506499.1 > [INFO: MSF       ] released a reserved cell at slot_offset:73, channel_offset:4
+1566506499.1 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566506509.6 > 
+1566506509.6 > LINK STATS to 1: 206 185 2
+1566506509.6 > drop: 0 457 0
+1566506509.8 > [INFO: SPHERE    ] --- Network status ---
+1566506509.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506509.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506509.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506509.8 > [INFO: SPHERE    ] -- Default route:
+1566506509.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506509.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506509.8 > [INFO: SPHERE    ] ----------------------
+1566506509.8 > Since last CoAP message / ACK: 0
+1566506569.5 > *** starting packetgen: 12 Hz
+1566506569.7 > 
+1566506569.7 > LINK STATS to 1: 244 223 1
+1566506569.7 > drop: 0 416 0
+1566506569.7 > [INFO: SPHERE    ] --- Network status ---
+1566506569.7 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506569.7 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506569.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506569.7 > [INFO: SPHERE    ] -- Default route:
+1566506569.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506569.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506569.8 > [INFO: SPHERE    ] ----------------------
+1566506569.8 > Since last CoAP message / ACK: 0
+1566506629.6 > 
+1566506629.6 > LINK STATS to 1: 240 224 1
+1566506629.6 > drop: 0 541 0
+1566506629.8 > [INFO: SPHERE    ] --- Network status ---
+1566506629.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506629.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506629.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506629.8 > [INFO: SPHERE    ] -- Default route:
+1566506629.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506629.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506629.8 > [INFO: SPHERE    ] ----------------------
+1566506629.8 > Since last CoAP message / ACK: 0
+1566506689.7 > 
+1566506689.7 > LINK STATS to 1: 244 224 1
+1566506689.7 > drop: 0 544 0
+1566506689.8 > [INFO: SPHERE    ] --- Network status ---
+1566506689.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506689.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506689.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506689.8 > [INFO: SPHERE    ] -- Default route:
+1566506689.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506689.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506689.8 > [INFO: SPHERE    ] ----------------------
+1566506689.8 > Since last CoAP message / ACK: 0
+1566506713.0 > [ERR : MSF       ] ADD transaction ends because of timeout
+1566506713.0 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 2 to 11
+1566506713.0 > [INFO: 6top      ] 6P-trans: trans [peer_addr:0012.4b00.0000.0001, seqno:9] is going to be freed
+1566506713.3 > [INFO: MSF       ] reserved a cell at slot_offset:48, channel_offset:0
+1566506713.3 > [INFO: MSF       ] reserved a cell at slot_offset:15, channel_offset:3
+1566506713.3 > [INFO: MSF       ] reserved a cell at slot_offset:32, channel_offset:4
+1566506713.3 > [INFO: MSF       ] reserved a cell at slot_offset:63, channel_offset:4
+1566506713.3 > [INFO: MSF       ] reserved a cell at slot_offset:26, channel_offset:4
+1566506713.3 > [ERR : MSF       ] ADD transaction failed
+1566506713.3 > [INFO: MSF       ] released a reserved cell at slot_offset:48, channel_offset:0
+1566506713.3 > [INFO: MSF       ] released a reserved cell at slot_offset:15, channel_offset:3
+1566506713.3 > [INFO: MSF       ] released a reserved cell at slot_offset:32, channel_offset:4
+1566506713.3 > [INFO: MSF       ] released a reserved cell at slot_offset:63, channel_offset:4
+1566506713.3 > [INFO: MSF       ] released a reserved cell at slot_offset:26, channel_offset:4
+1566506713.3 > [INFO: 6top      ] 6P-trans: trans #0x20001684 state changes from 1 to 2
+1566506749.7 > 
+1566506749.7 > LINK STATS to 1: 241 218 0
+1566506749.7 > drop: 0 549 0
+1566506749.7 > [INFO: SPHERE    ] --- Network status ---
+1566506749.7 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506749.7 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506749.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506749.7 > [INFO: SPHERE    ] -- Default route:
+1566506749.7 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506749.7 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506749.7 > [INFO: SPHERE    ] ----------------------
+1566506749.7 > Since last CoAP message / ACK: 0
+1566506809.6 > 
+1566506809.6 > LINK STATS to 1: 243 224 1
+1566506809.6 > drop: 0 543 0
+1566506809.8 > [INFO: SPHERE    ] --- Network status ---
+1566506809.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506809.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506809.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506809.8 > [INFO: SPHERE    ] -- Default route:
+1566506809.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506809.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506809.8 > [INFO: SPHERE    ] ----------------------
+1566506809.8 > Since last CoAP message / ACK: 0
+1566506869.5 > *** ending packetgen
+1566506869.6 > 
+1566506869.6 > LINK STATS to 1: 244 225 0
+1566506869.6 > drop: 0 541 0
+1566506869.8 > [INFO: SPHERE    ] --- Network status ---
+1566506869.8 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566506869.8 > [INFO: SPHERE    ] -- fd00::212:4b00:0:5
+1566506869.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:5
+1566506869.8 > [INFO: SPHERE    ] -- Default route:
+1566506869.8 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566506869.8 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566506869.8 > [INFO: SPHERE    ] ----------------------
+1566506869.8 > Since last CoAP message / ACK: 0

@@ -1,0 +1,530 @@
+1566499409.6 > CoAP try to register
+1566499409.7 > CoAP reg response: MID=60805, Type=2
+1566499409.7 > CoAP reg success
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87297.85236430168}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:43:53.536583Z", "type": "HEARTBEAT"}
+1566499464.5 > 
+1566499464.5 > LINK STATS to 1: 10 7 6
+1566499464.5 > 
+1566499464.5 > LINK STATS to 5: 0 0 0
+1566499464.5 > drop: 0 0 0
+1566499464.6 > [INFO: SPHERE    ] --- Network status ---
+1566499464.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499464.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566499464.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566499464.6 > [INFO: SPHERE    ] -- Default route:
+1566499464.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499464.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499464.6 > [INFO: SPHERE    ] ----------------------
+1566499464.6 > Since last CoAP message / ACK: 49
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87357.88478279114}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:44:53.568984Z", "type": "HEARTBEAT"}
+1566499524.5 > 
+1566499524.5 > LINK STATS to 1: 32 32 1
+1566499524.5 > 
+1566499524.5 > LINK STATS to 5: 0 0 0
+1566499524.5 > drop: 0 0 0
+1566499524.6 > [INFO: SPHERE    ] --- Network status ---
+1566499524.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499524.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566499524.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566499524.6 > [INFO: SPHERE    ] -- Default route:
+1566499524.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499524.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499524.6 > [INFO: SPHERE    ] ----------------------
+1566499524.6 > Since last CoAP message / ACK: 109
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87417.91682720184}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:45:53.601807Z", "type": "HEARTBEAT"}
+1566499584.5 > 
+1566499584.5 > LINK STATS to 1: 31 31 1
+1566499584.5 > 
+1566499584.5 > LINK STATS to 5: 0 0 0
+1566499584.5 > drop: 0 0 0
+1566499584.6 > *** starting packetgen: 2 Hz
+1566499584.6 > [INFO: SPHERE    ] --- Network status ---
+1566499584.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499584.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566499584.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566499584.6 > [INFO: SPHERE    ] -- Default route:
+1566499584.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499584.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499584.6 > [INFO: SPHERE    ] ----------------------
+1566499584.6 > Since last CoAP message / ACK: 169
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87477.94960665703}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:46:53.634113Z", "type": "HEARTBEAT"}
+1566499644.5 > 
+1566499644.5 > LINK STATS to 1: 123 123 1
+1566499644.5 > 
+1566499644.5 > LINK STATS to 5: 0 0 0
+1566499644.5 > drop: 0 0 0
+1566499644.6 > [INFO: SPHERE    ] --- Network status ---
+1566499644.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499644.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566499644.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566499644.6 > [INFO: SPHERE    ] -- Default route:
+1566499644.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499644.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499644.6 > [INFO: SPHERE    ] ----------------------
+1566499644.6 > Since last CoAP message / ACK: 229
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87537.98255681992}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:47:53.666729Z", "type": "HEARTBEAT"}
+1566499704.5 > 
+1566499704.5 > LINK STATS to 1: 122 121 0
+1566499704.5 > 
+1566499704.5 > LINK STATS to 5: 0 0 0
+1566499704.5 > drop: 0 0 0
+1566499704.6 > [INFO: SPHERE    ] --- Network status ---
+1566499704.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499704.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566499704.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566499704.6 > [INFO: SPHERE    ] -- Default route:
+1566499704.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499704.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499704.6 > [INFO: SPHERE    ] ----------------------
+1566499704.6 > Since last CoAP message / ACK: 289
+1566499704.6 > *** starting packetgen: 4 Hz
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87598.01470971107}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:48:53.699721Z", "type": "HEARTBEAT"}
+1566499764.5 > 
+1566499764.5 > LINK STATS to 1: 242 242 1
+1566499764.5 > 
+1566499764.5 > LINK STATS to 5: 0 0 0
+1566499764.5 > drop: 0 0 0
+1566499764.6 > [INFO: SPHERE    ] --- Network status ---
+1566499764.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499764.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566499764.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566499764.6 > [INFO: SPHERE    ] -- Default route:
+1566499764.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499764.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499764.6 > [INFO: SPHERE    ] ----------------------
+1566499764.6 > Since last CoAP message / ACK: 349
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87658.04898953438}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:49:53.733467Z", "type": "HEARTBEAT"}
+1566499824.5 > 
+1566499824.5 > LINK STATS to 1: 241 241 1
+1566499824.5 > 
+1566499824.5 > LINK STATS to 5: 0 0 0
+1566499824.5 > drop: 0 0 0
+1566499824.6 > [INFO: SPHERE    ] --- Network status ---
+1566499824.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499824.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566499824.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566499824.6 > [INFO: SPHERE    ] -- Default route:
+1566499824.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499824.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499824.6 > [INFO: SPHERE    ] ----------------------
+1566499824.6 > Since last CoAP message / ACK: 409
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87718.08338785172}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:50:53.767810Z", "type": "HEARTBEAT"}
+1566499884.5 > 
+1566499884.5 > LINK STATS to 1: 243 242 1
+1566499884.5 > 
+1566499884.5 > LINK STATS to 5: 0 0 0
+1566499884.5 > drop: 0 0 0
+1566499884.6 > [INFO: SPHERE    ] --- Network status ---
+1566499884.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499884.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566499884.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566499884.6 > [INFO: SPHERE    ] -- Default route:
+1566499884.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499884.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499884.6 > [INFO: SPHERE    ] ----------------------
+1566499884.6 > Since last CoAP message / ACK: 469
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87778.11595749855}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:51:53.800115Z", "type": "HEARTBEAT"}
+1566499944.5 > maxevents=4
+1566499944.5 > 
+1566499944.5 > LINK STATS to 1: 242 241 1
+1566499944.5 > 
+1566499944.5 > LINK STATS to 5: 0 0 0
+1566499944.5 > drop: 0 0 0
+1566499944.6 > [INFO: SPHERE    ] --- Network status ---
+1566499944.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566499944.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566499944.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566499944.6 > [INFO: SPHERE    ] -- Default route:
+1566499944.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566499944.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566499944.6 > [INFO: SPHERE    ] ----------------------
+1566499944.6 > Since last CoAP message / ACK: 529
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87838.14786505699}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:52:53.832842Z", "type": "HEARTBEAT"}
+1566500004.5 > 
+1566500004.5 > LINK STATS to 1: 245 243 1
+1566500004.5 > 
+1566500004.5 > LINK STATS to 5: 0 0 0
+1566500004.5 > drop: 0 0 0
+1566500004.5 > *** starting packetgen: 6 Hz
+1566500004.6 > [INFO: SPHERE    ] --- Network status ---
+1566500004.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500004.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500004.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500004.6 > [INFO: SPHERE    ] -- Default route:
+1566500004.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500004.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500004.6 > [INFO: SPHERE    ] ----------------------
+1566500004.6 > Since last CoAP message / ACK: 589
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87898.18226456642}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:53:53.866692Z", "type": "HEARTBEAT"}
+1566500064.4 > 
+1566500064.4 > LINK STATS to 1: 368 366 1
+1566500064.4 > 
+1566500064.5 > LINK STATS to 5: 0 0 0
+1566500064.5 > drop: 0 0 0
+1566500064.6 > [INFO: SPHERE    ] --- Network status ---
+1566500064.6 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500064.6 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500064.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500064.6 > [INFO: SPHERE    ] -- Default route:
+1566500064.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500064.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500064.6 > [INFO: SPHERE    ] ----------------------
+1566500064.6 > Since last CoAP message / ACK: 649
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 87958.21669864655}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:54:53.901396Z", "type": "HEARTBEAT"}
+1566500124.4 > 
+1566500124.4 > LINK STATS to 1: 369 367 1
+1566500124.4 > 
+1566500124.4 > LINK STATS to 5: 0 0 0
+1566500124.4 > drop: 0 0 0
+1566500124.5 > maxevents=1
+1566500124.5 > [INFO: SPHERE    ] --- Network status ---
+1566500124.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500124.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500124.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500124.5 > [INFO: SPHERE    ] -- Default route:
+1566500124.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500124.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500124.6 > [INFO: SPHERE    ] ----------------------
+1566500124.6 > Since last CoAP message / ACK: 709
+1566500125.4 > maxevents=2
+1566500143.4 > maxevents=3
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88018.24941658974}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:55:53.933640Z", "type": "HEARTBEAT"}
+1566500184.4 > 
+1566500184.4 > LINK STATS to 1: 368 367 1
+1566500184.4 > 
+1566500184.4 > LINK STATS to 5: 0 0 0
+1566500184.4 > drop: 0 0 0
+1566500184.5 > [INFO: SPHERE    ] --- Network status ---
+1566500184.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500184.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500184.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500184.5 > [INFO: SPHERE    ] -- Default route:
+1566500184.6 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500184.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500184.6 > [INFO: SPHERE    ] ----------------------
+1566500184.6 > Since last CoAP message / ACK: 769
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88078.2816336155}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:56:53.965849Z", "type": "HEARTBEAT"}
+1566500244.4 > 
+1566500244.4 > LINK STATS to 1: 373 367 1
+1566500244.4 > 
+1566500244.4 > LINK STATS to 5: 0 0 0
+1566500244.4 > drop: 0 0 0
+1566500244.5 > [INFO: SPHERE    ] --- Network status ---
+1566500244.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500244.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500244.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500244.5 > [INFO: SPHERE    ] -- Default route:
+1566500244.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500244.6 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500244.6 > [INFO: SPHERE    ] ----------------------
+1566500244.6 > Since last CoAP message / ACK: 829
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88138.31403136253}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:57:53.998184Z", "type": "HEARTBEAT"}
+1566500304.4 > *** starting packetgen: 8 Hz
+1566500304.4 > 
+1566500304.4 > LINK STATS to 1: 373 365 0
+1566500304.4 > 
+1566500304.4 > LINK STATS to 5: 0 0 0
+1566500304.4 > drop: 0 0 0
+1566500304.5 > [INFO: SPHERE    ] --- Network status ---
+1566500304.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500304.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500304.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500304.5 > [INFO: SPHERE    ] -- Default route:
+1566500304.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500304.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500304.5 > [INFO: SPHERE    ] ----------------------
+1566500304.5 > Since last CoAP message / ACK: 889
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88198.34761571884}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:58:54.032556Z", "type": "HEARTBEAT"}
+1566500364.4 > 
+1566500364.4 > LINK STATS to 1: 505 482 2
+1566500364.4 > 
+1566500364.4 > LINK STATS to 5: 0 0 0
+1566500364.4 > drop: 0 0 0
+1566500364.5 > [INFO: SPHERE    ] --- Network status ---
+1566500364.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500364.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500364.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500364.5 > [INFO: SPHERE    ] -- Default route:
+1566500364.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500364.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500364.5 > [INFO: SPHERE    ] ----------------------
+1566500364.5 > Since last CoAP message / ACK: 949
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [[{"n": "UID", "v": "serial"}, {"n": "NUM_MESSAGES", "v": 290}, {"n": "NUM_TOTAL_MESSAGES", "v": 290}]], "bt": "2019-08-22T18:29:53.049943Z", "type": "PDR", "mc": 24}
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88258.38379573822}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T18:59:54.069130Z", "type": "HEARTBEAT"}
+1566500424.4 > 
+1566500424.4 > LINK STATS to 1: 500 482 1
+1566500424.4 > 
+1566500424.4 > LINK STATS to 5: 0 0 0
+1566500424.4 > drop: 0 0 0
+1566500424.5 > [INFO: SPHERE    ] --- Network status ---
+1566500424.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500424.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500424.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500424.5 > [INFO: SPHERE    ] -- Default route:
+1566500424.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500424.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500424.5 > [INFO: SPHERE    ] ----------------------
+1566500424.5 > Since last CoAP message / ACK: 1009
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88318.41756772995}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:00:54.102316Z", "type": "HEARTBEAT"}
+1566500484.4 > maxevents=4
+1566500484.4 > 
+1566500484.4 > LINK STATS to 1: 484 482 0
+1566500484.4 > 
+1566500484.4 > LINK STATS to 5: 0 0 0
+1566500484.4 > drop: 0 0 0
+1566500484.5 > [INFO: SPHERE    ] --- Network status ---
+1566500484.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500484.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500484.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500484.5 > [INFO: SPHERE    ] -- Default route:
+1566500484.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500484.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500484.5 > [INFO: SPHERE    ] ----------------------
+1566500484.5 > Since last CoAP message / ACK: 1069
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88378.45121002197}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:01:54.136211Z", "type": "HEARTBEAT"}
+1566500544.4 > 
+1566500544.4 > LINK STATS to 1: 501 482 1
+1566500544.4 > 
+1566500544.4 > LINK STATS to 5: 0 0 0
+1566500544.4 > drop: 0 0 0
+1566500544.5 > [INFO: SPHERE    ] --- Network status ---
+1566500544.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500544.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500544.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500544.5 > [INFO: SPHERE    ] -- Default route:
+1566500544.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500544.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500544.5 > [INFO: SPHERE    ] ----------------------
+1566500544.5 > Since last CoAP message / ACK: 1129
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88438.48676872253}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:02:54.170877Z", "type": "HEARTBEAT"}
+1566500604.3 > *** starting packetgen: 10 Hz
+1566500604.4 > 
+1566500604.4 > LINK STATS to 1: 493 481 1
+1566500604.4 > 
+1566500604.4 > LINK STATS to 5: 0 0 0
+1566500604.4 > drop: 0 0 0
+1566500604.5 > [INFO: SPHERE    ] --- Network status ---
+1566500604.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500604.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500604.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500604.5 > [INFO: SPHERE    ] -- Default route:
+1566500604.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500604.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500604.5 > [INFO: SPHERE    ] ----------------------
+1566500604.5 > Since last CoAP message / ACK: 1189
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88498.52170586586}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:03:54.205880Z", "type": "HEARTBEAT"}
+1566500664.4 > 
+1566500664.4 > LINK STATS to 1: 676 642 1
+1566500664.4 > 
+1566500664.4 > LINK STATS to 5: 0 0 0
+1566500664.4 > drop: 0 0 0
+1566500664.5 > [INFO: SPHERE    ] --- Network status ---
+1566500664.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500664.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500664.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500664.5 > [INFO: SPHERE    ] -- Default route:
+1566500664.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500664.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500664.5 > [INFO: SPHERE    ] ----------------------
+1566500664.5 > Since last CoAP message / ACK: 1249
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88558.55578112602}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:04:54.240819Z", "type": "HEARTBEAT"}
+1566500724.4 > 
+1566500724.4 > LINK STATS to 1: 701 642 1
+1566500724.4 > 
+1566500724.4 > LINK STATS to 5: 0 0 0
+1566500724.4 > drop: 0 0 0
+1566500724.5 > [INFO: SPHERE    ] --- Network status ---
+1566500724.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500724.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500724.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500724.5 > [INFO: SPHERE    ] -- Default route:
+1566500724.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500724.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500724.5 > [INFO: SPHERE    ] ----------------------
+1566500724.5 > Since last CoAP message / ACK: 1309
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88618.5900592804}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:05:54.277358Z", "type": "HEARTBEAT"}
+1566500784.4 > 
+1566500784.4 > LINK STATS to 1: 678 641 1
+1566500784.4 > 
+1566500784.4 > LINK STATS to 5: 0 0 0
+1566500784.4 > drop: 0 0 0
+1566500784.5 > [INFO: SPHERE    ] --- Network status ---
+1566500784.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500784.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500784.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500784.5 > [INFO: SPHERE    ] -- Default route:
+1566500784.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500784.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500784.5 > [INFO: SPHERE    ] ----------------------
+1566500784.5 > Since last CoAP message / ACK: 1369
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88678.62593650818}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:06:54.310666Z", "type": "HEARTBEAT"}
+1566500844.4 > 
+1566500844.4 > LINK STATS to 1: 691 642 1
+1566500844.4 > 
+1566500844.4 > LINK STATS to 5: 0 0 0
+1566500844.4 > drop: 0 0 0
+1566500844.4 > maxevents=1
+1566500844.5 > maxevents=2
+1566500844.5 > [INFO: SPHERE    ] --- Network status ---
+1566500844.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500844.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500844.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500844.5 > [INFO: SPHERE    ] -- Default route:
+1566500844.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500844.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500844.5 > [INFO: SPHERE    ] ----------------------
+1566500844.5 > Since last CoAP message / ACK: 1429
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88738.66057896614}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:07:54.345615Z", "type": "HEARTBEAT"}
+1566500876.4 > maxevents=3
+1566500904.2 > *** starting packetgen: 12 Hz
+1566500904.4 > 
+1566500904.4 > LINK STATS to 1: 667 642 1
+1566500904.4 > 
+1566500904.4 > LINK STATS to 5: 0 0 0
+1566500904.4 > drop: 0 0 0
+1566500904.5 > [INFO: SPHERE    ] --- Network status ---
+1566500904.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500904.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500904.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500904.5 > [INFO: SPHERE    ] -- Default route:
+1566500904.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500904.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500904.5 > [INFO: SPHERE    ] ----------------------
+1566500904.5 > Since last CoAP message / ACK: 1489
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88798.69552326202}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:08:54.380523Z", "type": "HEARTBEAT"}
+1566500964.4 > maxevents=4
+1566500964.4 > 
+1566500964.4 > LINK STATS to 1: 896 767 1
+1566500964.4 > 
+1566500964.4 > LINK STATS to 5: 0 0 0
+1566500964.4 > drop: 0 0 0
+1566500964.5 > [INFO: SPHERE    ] --- Network status ---
+1566500964.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566500964.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566500964.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566500964.5 > [INFO: SPHERE    ] -- Default route:
+1566500964.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566500964.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566500964.5 > [INFO: SPHERE    ] ----------------------
+1566500964.5 > Since last CoAP message / ACK: 1549
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88858.73070859909}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:09:54.415372Z", "type": "HEARTBEAT"}
+1566501024.4 > 
+1566501024.4 > LINK STATS to 1: 848 764 0
+1566501024.4 > 
+1566501024.4 > LINK STATS to 5: 0 0 0
+1566501024.4 > drop: 0 0 0
+1566501024.5 > [INFO: SPHERE    ] --- Network status ---
+1566501024.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566501024.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566501024.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566501024.5 > [INFO: SPHERE    ] -- Default route:
+1566501024.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566501024.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566501024.5 > [INFO: SPHERE    ] ----------------------
+1566501024.5 > Since last CoAP message / ACK: 1609
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88918.76392865181}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:10:54.448470Z", "type": "HEARTBEAT"}
+1566501084.4 > 
+1566501084.4 > LINK STATS to 1: 858 765 1
+1566501084.4 > 
+1566501084.4 > LINK STATS to 5: 0 0 0
+1566501084.4 > drop: 0 0 0
+1566501084.5 > [INFO: SPHERE    ] --- Network status ---
+1566501084.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566501084.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566501084.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566501084.5 > [INFO: SPHERE    ] -- Default route:
+1566501084.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566501084.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566501084.5 > [INFO: SPHERE    ] ----------------------
+1566501084.5 > Since last CoAP message / ACK: 1669
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 88978.79763793945}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:11:54.482004Z", "type": "HEARTBEAT"}
+1566501144.4 > 
+1566501144.4 > LINK STATS to 1: 852 764 1
+1566501144.4 > 
+1566501144.4 > LINK STATS to 5: 0 0 0
+1566501144.4 > drop: 0 0 0
+1566501144.5 > [INFO: SPHERE    ] --- Network status ---
+1566501144.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566501144.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566501144.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566501144.5 > [INFO: SPHERE    ] -- Default route:
+1566501144.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566501144.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566501144.5 > [INFO: SPHERE    ] ----------------------
+1566501144.5 > Since last CoAP message / ACK: 1729
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 89038.83050727844}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-22T19:12:54.515333Z", "type": "HEARTBEAT"}
+1566501204.2 > *** ending packetgen
+1566501204.4 > 
+1566501204.4 > LINK STATS to 1: 836 764 1
+1566501204.4 > 
+1566501204.4 > LINK STATS to 5: 0 0 0
+1566501204.4 > drop: 0 0 0
+1566501204.5 > [INFO: SPHERE    ] --- Network status ---
+1566501204.5 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566501204.5 > [INFO: SPHERE    ] -- fd00::212:4b00:0:7
+1566501204.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:7
+1566501204.5 > [INFO: SPHERE    ] -- Default route:
+1566501204.5 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566501204.5 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566501204.5 > [INFO: SPHERE    ] ----------------------
+1566501204.5 > Since last CoAP message / ACK: 1789

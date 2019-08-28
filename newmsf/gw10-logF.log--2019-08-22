@@ -1,0 +1,807 @@
+1566832209.9 > [INFO: MSF       ] change our parent to 0012.4b00.0000.0001
+1566832209.9 > [INFO: MSF       ] reserved a cell at slot_offset:40, channel_offset:0
+1566832209.9 > [INFO: MSF       ] reserved a cell at slot_offset:65, channel_offset:3
+1566832209.9 > [INFO: MSF       ] reserved a cell at slot_offset:28, channel_offset:6
+1566832209.9 > [INFO: MSF       ] reserved a cell at slot_offset:26, channel_offset:5
+1566832209.9 > [INFO: MSF       ] reserved a cell at slot_offset:49, channel_offset:4
+1566832209.9 > [INFO: MSF       ] added an autonomous TX cell for 0012.4b00.0000.0001 at slot_offset:31, channel_offset:2
+1566832209.9 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832210.1 > CoAP try to register
+1566832212.2 > [INFO: MSF       ] removed an autonomous TX cell for 0012.4b00.0000.0001
+1566832212.3 > [INFO: MSF       ] released a reserved cell at slot_offset:40, channel_offset:0
+1566832212.3 > [INFO: MSF       ] released a reserved cell at slot_offset:65, channel_offset:3
+1566832212.3 > [INFO: MSF       ] released a reserved cell at slot_offset:28, channel_offset:6
+1566832212.3 > [INFO: MSF       ] released a reserved cell at slot_offset:26, channel_offset:5
+1566832212.3 > [INFO: MSF       ] released a reserved cell at slot_offset:49, channel_offset:4
+1566832212.3 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:40, channel_offset:0
+1566832212.3 > [INFO: MSF       ] ADD transaction completes successfully
+1566832265.0 > 
+1566832265.0 > LINK STATS to 1: 11 11 5
+1566832265.0 > drop: 0 0 0
+1566832265.1 > [INFO: SPHERE    ] --- Network status ---
+1566832265.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832265.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832265.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832265.1 > [INFO: SPHERE    ] -- Default route:
+1566832265.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832265.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832265.1 > [INFO: SPHERE    ] ----------------------
+1566832265.1 > !Not known to be registered to CoAP
+1566832265.1 > Since last CoAP message / ACK: 37
+1566832289.4 > [INFO: MSF       ] NumCellsElapsed: 100, NumCellsUsed: 12, NumRequiredUpwardCells: 1
+1566832307.5 > CoAP reg NULL response
+1566832312.4 > CoAP try to register
+1566832314.2 > CoAP reg response: MID=62511, Type=2
+1566832314.2 > CoAP reg success
+1566832325.0 > 
+1566832325.0 > LINK STATS to 1: 4 4 3
+1566832325.0 > drop: 0 0 0
+1566832325.1 > [INFO: SPHERE    ] --- Network status ---
+1566832325.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832325.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832325.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832325.1 > [INFO: SPHERE    ] -- Default route:
+1566832325.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832325.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832325.1 > [INFO: SPHERE    ] ----------------------
+1566832325.1 > Since last CoAP message / ACK: 10
+1566832366.8 > [INFO: MSF       ] NumCellsElapsed: 100, NumCellsUsed: 5, NumRequiredUpwardCells: 1
+1566832385.1 > 
+1566832385.1 > LINK STATS to 1: 3 2 1
+1566832385.1 > drop: 0 0 0
+1566832385.2 > [INFO: SPHERE    ] --- Network status ---
+1566832385.2 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832385.2 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832385.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832385.2 > [INFO: SPHERE    ] -- Default route:
+1566832385.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832385.2 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832385.2 > [INFO: SPHERE    ] ----------------------
+1566832385.2 > Since last CoAP message / ACK: 70
+1566832444.1 > [INFO: MSF       ] NumCellsElapsed: 100, NumCellsUsed: 33, NumRequiredUpwardCells: 1 -> 2; going to add another negotiated TX cell
+1566832444.1 > [INFO: MSF       ] reserved a cell at slot_offset:9, channel_offset:6
+1566832444.1 > [INFO: MSF       ] reserved a cell at slot_offset:31, channel_offset:1
+1566832444.1 > [INFO: MSF       ] reserved a cell at slot_offset:95, channel_offset:0
+1566832444.1 > [INFO: MSF       ] reserved a cell at slot_offset:16, channel_offset:6
+1566832444.1 > [INFO: MSF       ] reserved a cell at slot_offset:76, channel_offset:0
+1566832444.1 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832445.0 > 
+1566832445.0 > LINK STATS to 1: 32 31 1
+1566832445.0 > drop: 0 0 0
+1566832445.1 > *** starting packetgen: 2 Hz
+1566832445.1 > [INFO: SPHERE    ] --- Network status ---
+1566832445.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832445.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832445.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832445.1 > [INFO: SPHERE    ] -- Default route:
+1566832445.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832445.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832445.1 > [INFO: SPHERE    ] ----------------------
+1566832445.1 > Since last CoAP message / ACK: 0
+1566832445.9 > [INFO: MSF       ] released a reserved cell at slot_offset:9, channel_offset:6
+1566832445.9 > [INFO: MSF       ] released a reserved cell at slot_offset:31, channel_offset:1
+1566832445.9 > [INFO: MSF       ] released a reserved cell at slot_offset:95, channel_offset:0
+1566832445.9 > [INFO: MSF       ] released a reserved cell at slot_offset:16, channel_offset:6
+1566832445.9 > [INFO: MSF       ] released a reserved cell at slot_offset:76, channel_offset:0
+1566832445.9 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:9, channel_offset:6
+1566832445.9 > [INFO: MSF       ] ADD transaction completes successfully
+1566832483.6 > [INFO: MSF       ] NumCellsElapsed: 100, NumCellsUsed: 78, NumRequiredUpwardCells: 2 -> 3; going to add another negotiated TX cell
+1566832483.6 > [INFO: MSF       ] reserved a cell at slot_offset:15, channel_offset:2
+1566832483.6 > [INFO: MSF       ] reserved a cell at slot_offset:28, channel_offset:0
+1566832483.6 > [INFO: MSF       ] reserved a cell at slot_offset:77, channel_offset:3
+1566832483.6 > [INFO: MSF       ] reserved a cell at slot_offset:91, channel_offset:1
+1566832483.6 > [INFO: MSF       ] reserved a cell at slot_offset:58, channel_offset:0
+1566832483.6 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832486.5 > [INFO: MSF       ] released a reserved cell at slot_offset:15, channel_offset:2
+1566832486.5 > [INFO: MSF       ] released a reserved cell at slot_offset:28, channel_offset:0
+1566832486.5 > [INFO: MSF       ] released a reserved cell at slot_offset:77, channel_offset:3
+1566832486.5 > [INFO: MSF       ] released a reserved cell at slot_offset:91, channel_offset:1
+1566832486.5 > [INFO: MSF       ] released a reserved cell at slot_offset:58, channel_offset:0
+1566832486.5 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:15, channel_offset:2
+1566832486.5 > [INFO: MSF       ] ADD transaction completes successfully
+1566832505.0 > 
+1566832505.0 > LINK STATS to 1: 126 120 4
+1566832505.0 > drop: 0 2 0
+1566832505.1 > [INFO: SPHERE    ] --- Network status ---
+1566832505.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832505.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832505.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832505.1 > [INFO: SPHERE    ] -- Default route:
+1566832505.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832505.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832505.1 > [INFO: SPHERE    ] ----------------------
+1566832505.1 > Since last CoAP message / ACK: 1
+1566832510.6 > [INFO: MSF       ] NumCellsElapsed: 102, NumCellsUsed: 61, NumRequiredUpwardCells: 3 -> 4; going to add another negotiated TX cell
+1566832510.6 > [INFO: MSF       ] reserved a cell at slot_offset:35, channel_offset:1
+1566832510.6 > [INFO: MSF       ] reserved a cell at slot_offset:87, channel_offset:6
+1566832510.6 > [INFO: MSF       ] reserved a cell at slot_offset:92, channel_offset:3
+1566832510.6 > [INFO: MSF       ] reserved a cell at slot_offset:12, channel_offset:5
+1566832510.6 > [INFO: MSF       ] reserved a cell at slot_offset:26, channel_offset:3
+1566832510.6 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832511.2 > [INFO: MSF       ] released a reserved cell at slot_offset:35, channel_offset:1
+1566832511.2 > [INFO: MSF       ] released a reserved cell at slot_offset:87, channel_offset:6
+1566832511.2 > [INFO: MSF       ] released a reserved cell at slot_offset:92, channel_offset:3
+1566832511.2 > [INFO: MSF       ] released a reserved cell at slot_offset:12, channel_offset:5
+1566832511.2 > [INFO: MSF       ] released a reserved cell at slot_offset:26, channel_offset:3
+1566832511.2 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:35, channel_offset:1
+1566832511.2 > [INFO: MSF       ] ADD transaction completes successfully
+1566832530.0 > [INFO: MSF       ] NumCellsElapsed: 100, NumCellsUsed: 42, NumRequiredUpwardCells: 4 -> 5; going to add another negotiated TX cell
+1566832530.0 > [INFO: MSF       ] reserved a cell at slot_offset:14, channel_offset:6
+1566832530.0 > [INFO: MSF       ] reserved a cell at slot_offset:1, channel_offset:1
+1566832530.0 > [INFO: MSF       ] reserved a cell at slot_offset:43, channel_offset:2
+1566832530.0 > [INFO: MSF       ] reserved a cell at slot_offset:21, channel_offset:4
+1566832530.0 > [INFO: MSF       ] reserved a cell at slot_offset:57, channel_offset:4
+1566832530.0 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832530.1 > [INFO: MSF       ] released a reserved cell at slot_offset:14, channel_offset:6
+1566832530.1 > [INFO: MSF       ] released a reserved cell at slot_offset:1, channel_offset:1
+1566832530.1 > [INFO: MSF       ] released a reserved cell at slot_offset:43, channel_offset:2
+1566832530.1 > [INFO: MSF       ] released a reserved cell at slot_offset:21, channel_offset:4
+1566832530.1 > [INFO: MSF       ] released a reserved cell at slot_offset:57, channel_offset:4
+1566832530.1 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:14, channel_offset:6
+1566832530.1 > [INFO: MSF       ] ADD transaction completes successfully
+1566832545.5 > [INFO: MSF       ] NumCellsElapsed: 100, NumCellsUsed: 31, NumRequiredUpwardCells: 5 -> 6; going to add another negotiated TX cell
+1566832545.5 > [INFO: MSF       ] reserved a cell at slot_offset:47, channel_offset:1
+1566832545.5 > [INFO: MSF       ] reserved a cell at slot_offset:61, channel_offset:1
+1566832545.5 > [INFO: MSF       ] reserved a cell at slot_offset:25, channel_offset:0
+1566832545.5 > [INFO: MSF       ] reserved a cell at slot_offset:76, channel_offset:3
+1566832545.5 > [INFO: MSF       ] reserved a cell at slot_offset:22, channel_offset:0
+1566832545.5 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832546.0 > [INFO: MSF       ] released a reserved cell at slot_offset:47, channel_offset:1
+1566832546.0 > [INFO: MSF       ] released a reserved cell at slot_offset:61, channel_offset:1
+1566832546.0 > [INFO: MSF       ] released a reserved cell at slot_offset:25, channel_offset:0
+1566832546.0 > [INFO: MSF       ] released a reserved cell at slot_offset:76, channel_offset:3
+1566832546.0 > [INFO: MSF       ] released a reserved cell at slot_offset:22, channel_offset:0
+1566832546.0 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:47, channel_offset:1
+1566832546.0 > [INFO: MSF       ] ADD transaction completes successfully
+1566832558.6 > [INFO: MSF       ] NumCellsElapsed: 102, NumCellsUsed: 29, NumRequiredUpwardCells: 6 -> 7; going to add another negotiated TX cell
+1566832558.6 > [INFO: MSF       ] reserved a cell at slot_offset:81, channel_offset:6
+1566832558.6 > [INFO: MSF       ] reserved a cell at slot_offset:10, channel_offset:1
+1566832558.6 > [INFO: MSF       ] reserved a cell at slot_offset:94, channel_offset:5
+1566832558.6 > [INFO: MSF       ] reserved a cell at slot_offset:33, channel_offset:2
+1566832558.6 > [INFO: MSF       ] reserved a cell at slot_offset:87, channel_offset:4
+1566832558.6 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832559.8 > [INFO: MSF       ] released a reserved cell at slot_offset:81, channel_offset:6
+1566832559.8 > [INFO: MSF       ] released a reserved cell at slot_offset:10, channel_offset:1
+1566832559.8 > [INFO: MSF       ] released a reserved cell at slot_offset:94, channel_offset:5
+1566832559.8 > [INFO: MSF       ] released a reserved cell at slot_offset:33, channel_offset:2
+1566832559.8 > [INFO: MSF       ] released a reserved cell at slot_offset:87, channel_offset:4
+1566832559.8 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:81, channel_offset:6
+1566832559.8 > [INFO: MSF       ] ADD transaction completes successfully
+1566832565.0 > 
+1566832565.0 > LINK STATS to 1: 122 120 4
+1566832565.0 > drop: 0 0 0
+1566832565.1 > [INFO: SPHERE    ] --- Network status ---
+1566832565.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832565.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832565.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832565.1 > [INFO: SPHERE    ] -- Default route:
+1566832565.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832565.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832565.1 > [INFO: SPHERE    ] ----------------------
+1566832565.1 > Since last CoAP message / ACK: 1
+1566832565.3 > *** starting packetgen: 4 Hz
+1566832570.2 > [INFO: MSF       ] NumCellsElapsed: 104, NumCellsUsed: 36, NumRequiredUpwardCells: 7 -> 8; going to add another negotiated TX cell
+1566832570.2 > [INFO: MSF       ] reserved a cell at slot_offset:59, channel_offset:5
+1566832570.2 > [INFO: MSF       ] reserved a cell at slot_offset:19, channel_offset:3
+1566832570.2 > [INFO: MSF       ] reserved a cell at slot_offset:46, channel_offset:4
+1566832570.2 > [INFO: MSF       ] reserved a cell at slot_offset:56, channel_offset:0
+1566832570.2 > [INFO: MSF       ] reserved a cell at slot_offset:65, channel_offset:6
+1566832570.2 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832570.7 > [INFO: MSF       ] released a reserved cell at slot_offset:59, channel_offset:5
+1566832570.7 > [INFO: MSF       ] released a reserved cell at slot_offset:19, channel_offset:3
+1566832570.7 > [INFO: MSF       ] released a reserved cell at slot_offset:46, channel_offset:4
+1566832570.7 > [INFO: MSF       ] released a reserved cell at slot_offset:56, channel_offset:0
+1566832570.7 > [INFO: MSF       ] released a reserved cell at slot_offset:65, channel_offset:6
+1566832570.7 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:59, channel_offset:5
+1566832570.7 > [INFO: MSF       ] ADD transaction completes successfully
+1566832580.2 > [INFO: MSF       ] NumCellsElapsed: 104, NumCellsUsed: 44, NumRequiredUpwardCells: 8 -> 9; going to add another negotiated TX cell
+1566832580.2 > [INFO: MSF       ] reserved a cell at slot_offset:34, channel_offset:1
+1566832580.2 > [INFO: MSF       ] reserved a cell at slot_offset:98, channel_offset:0
+1566832580.2 > [INFO: MSF       ] reserved a cell at slot_offset:31, channel_offset:4
+1566832580.2 > [INFO: MSF       ] reserved a cell at slot_offset:13, channel_offset:0
+1566832580.2 > [INFO: MSF       ] reserved a cell at slot_offset:52, channel_offset:1
+1566832580.2 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832580.5 > [INFO: MSF       ] released a reserved cell at slot_offset:34, channel_offset:1
+1566832580.5 > [INFO: MSF       ] released a reserved cell at slot_offset:98, channel_offset:0
+1566832580.5 > [INFO: MSF       ] released a reserved cell at slot_offset:31, channel_offset:4
+1566832580.5 > [INFO: MSF       ] released a reserved cell at slot_offset:13, channel_offset:0
+1566832580.5 > [INFO: MSF       ] released a reserved cell at slot_offset:52, channel_offset:1
+1566832580.5 > [INFO: MSF       ] added a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:34, channel_offset:1
+1566832580.5 > [INFO: MSF       ] ADD transaction completes successfully
+1566832589.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 39, NumRequiredUpwardCells: 9 -> 10; going to add another negotiated TX cell
+1566832589.5 > [INFO: MSF       ] reserved a cell at slot_offset:50, channel_offset:6
+1566832589.5 > [INFO: MSF       ] reserved a cell at slot_offset:21, channel_offset:6
+1566832589.5 > [INFO: MSF       ] reserved a cell at slot_offset:25, channel_offset:4
+1566832589.5 > [INFO: MSF       ] reserved a cell at slot_offset:75, channel_offset:5
+1566832589.5 > [INFO: MSF       ] reserved a cell at slot_offset:93, channel_offset:1
+1566832589.5 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832591.0 > [INFO: MSF       ] received an empty CellList; try another ADD request later
+1566832591.1 > [INFO: MSF       ] reserved a cell at slot_offset:56, channel_offset:3
+1566832591.1 > [INFO: MSF       ] reserved a cell at slot_offset:4, channel_offset:6
+1566832591.1 > [INFO: MSF       ] reserved a cell at slot_offset:20, channel_offset:6
+1566832591.1 > [INFO: MSF       ] reserved a cell at slot_offset:31, channel_offset:4
+1566832591.1 > [INFO: MSF       ] reserved a cell at slot_offset:45, channel_offset:3
+1566832591.1 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832594.0 > [INFO: MSF       ] received an empty CellList; try another ADD request later
+1566832594.2 > [INFO: MSF       ] reserved a cell at slot_offset:12, channel_offset:2
+1566832594.2 > [INFO: MSF       ] reserved a cell at slot_offset:51, channel_offset:1
+1566832594.2 > [INFO: MSF       ] reserved a cell at slot_offset:62, channel_offset:5
+1566832594.2 > [INFO: MSF       ] reserved a cell at slot_offset:38, channel_offset:0
+1566832594.2 > [INFO: MSF       ] reserved a cell at slot_offset:26, channel_offset:6
+1566832594.2 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832597.0 > [INFO: MSF       ] received an empty CellList; try another ADD request later
+1566832597.2 > [INFO: MSF       ] reserved a cell at slot_offset:60, channel_offset:4
+1566832597.2 > [INFO: MSF       ] reserved a cell at slot_offset:80, channel_offset:2
+1566832597.2 > [INFO: MSF       ] reserved a cell at slot_offset:87, channel_offset:2
+1566832597.2 > [INFO: MSF       ] reserved a cell at slot_offset:10, channel_offset:1
+1566832597.2 > [INFO: MSF       ] reserved a cell at slot_offset:13, channel_offset:6
+1566832597.2 > [INFO: MSF       ] sent an ADD request to the parent: 0012.4b00.0000.0001
+1566832598.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 44, NumRequiredUpwardCells: 10
+1566832598.9 > [INFO: MSF       ] received an empty CellList; try another ADD request later
+1566832599.5 > [INFO: MSF       ] reserved a cell at slot_offset:88, channel_offset:5
+1566832599.5 > [ERR : MSF       ] failed to reserve a cell at slot_offset:69, channel_offset:4
+1566832599.5 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566832599.5 > [INFO: MSF       ] delay the next request for 4215 seconds
+1566832608.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 37, NumRequiredUpwardCells: 10
+1566832617.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 40, NumRequiredUpwardCells: 10
+1566832625.0 > 
+1566832625.0 > LINK STATS to 1: 253 241 7
+1566832625.0 > drop: 0 0 0
+1566832625.2 > [INFO: SPHERE    ] --- Network status ---
+1566832625.2 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832625.2 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832625.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832625.2 > [INFO: SPHERE    ] -- Default route:
+1566832625.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832625.2 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832625.2 > [INFO: SPHERE    ] ----------------------
+1566832625.2 > Since last CoAP message / ACK: 0
+1566832626.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 40, NumRequiredUpwardCells: 10
+1566832632.9 > [ERR : MSF       ] failed to reserve a cell at slot_offset:16, channel_offset:5
+1566832632.9 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566832632.9 > [INFO: MSF       ] delay the next request for 6080 seconds
+1566832635.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 39, NumRequiredUpwardCells: 10
+1566832645.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 40, NumRequiredUpwardCells: 10
+1566832654.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 42, NumRequiredUpwardCells: 10
+1566832663.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 38, NumRequiredUpwardCells: 10
+1566832673.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 40, NumRequiredUpwardCells: 10
+1566832680.8 > [ERR : MSF       ] failed to reserve a cell at slot_offset:89, channel_offset:2
+1566832680.8 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566832680.8 > [INFO: MSF       ] delay the next request for 6348 seconds
+1566832682.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 39, NumRequiredUpwardCells: 10
+1566832685.0 > 
+1566832685.0 > LINK STATS to 1: 256 242 1
+1566832685.0 > drop: 0 0 0
+1566832685.1 > [INFO: SPHERE    ] --- Network status ---
+1566832685.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832685.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832685.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832685.1 > [INFO: SPHERE    ] -- Default route:
+1566832685.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832685.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832685.1 > [INFO: SPHERE    ] ----------------------
+1566832685.1 > Since last CoAP message / ACK: 0
+1566832691.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 39, NumRequiredUpwardCells: 10
+1566832700.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 39, NumRequiredUpwardCells: 10
+1566832710.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 38, NumRequiredUpwardCells: 10
+1566832719.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 39, NumRequiredUpwardCells: 10
+1566832728.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 39, NumRequiredUpwardCells: 10
+1566832731.1 > [ERR : MSF       ] failed to reserve a cell at slot_offset:64, channel_offset:2
+1566832731.1 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566832731.1 > [INFO: MSF       ] delay the next request for 5177 seconds
+1566832737.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 38, NumRequiredUpwardCells: 10
+1566832744.9 > 
+1566832744.9 > LINK STATS to 1: 250 242 1
+1566832744.9 > drop: 0 0 0
+1566832745.1 > [INFO: SPHERE    ] --- Network status ---
+1566832745.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832745.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832745.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832745.1 > [INFO: SPHERE    ] -- Default route:
+1566832745.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832745.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832745.1 > [INFO: SPHERE    ] ----------------------
+1566832745.1 > Since last CoAP message / ACK: 0
+1566832747.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 39, NumRequiredUpwardCells: 10
+1566832756.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 40, NumRequiredUpwardCells: 10
+1566832765.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 38, NumRequiredUpwardCells: 10
+1566832772.0 > [ERR : MSF       ] failed to reserve a cell at slot_offset:32, channel_offset:1
+1566832772.0 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566832772.0 > [INFO: MSF       ] delay the next request for 7650 seconds
+1566832775.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 38, NumRequiredUpwardCells: 10
+1566832784.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 40, NumRequiredUpwardCells: 10
+1566832793.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 39, NumRequiredUpwardCells: 10
+1566832802.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 39, NumRequiredUpwardCells: 10
+1566832805.0 > 
+1566832805.0 > LINK STATS to 1: 252 243 1
+1566832805.0 > drop: 0 0 0
+1566832805.0 > *** starting packetgen: 6 Hz
+1566832805.2 > [INFO: SPHERE    ] --- Network status ---
+1566832805.2 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832805.2 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832805.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832805.2 > [INFO: SPHERE    ] -- Default route:
+1566832805.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832805.2 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832805.2 > [INFO: SPHERE    ] ----------------------
+1566832805.2 > Since last CoAP message / ACK: 0
+1566832812.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 53, NumRequiredUpwardCells: 10
+1566832821.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 57, NumRequiredUpwardCells: 10
+1566832830.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 60, NumRequiredUpwardCells: 10
+1566832832.4 > [ERR : MSF       ] failed to reserve a cell at slot_offset:43, channel_offset:1
+1566832832.4 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566832832.4 > [INFO: MSF       ] delay the next request for 7566 seconds
+1566832840.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566832849.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 61, NumRequiredUpwardCells: 10
+1566832858.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 59, NumRequiredUpwardCells: 10
+1566832865.0 > 
+1566832865.0 > LINK STATS to 1: 380 366 1
+1566832865.0 > drop: 0 0 0
+1566832865.2 > [INFO: SPHERE    ] --- Network status ---
+1566832865.2 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832865.2 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832865.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832865.2 > [INFO: SPHERE    ] -- Default route:
+1566832865.2 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832865.2 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832865.2 > [INFO: SPHERE    ] ----------------------
+1566832865.2 > Since last CoAP message / ACK: 0
+1566832867.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566832877.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566832886.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566832891.9 > [ERR : MSF       ] failed to reserve a cell at slot_offset:89, channel_offset:3
+1566832891.9 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566832891.9 > [INFO: MSF       ] delay the next request for 4860 seconds
+1566832895.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566832905.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 63, NumRequiredUpwardCells: 10
+1566832914.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566832923.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 56, NumRequiredUpwardCells: 10
+1566832924.9 > 
+1566832924.9 > LINK STATS to 1: 379 367 1
+1566832925.0 > drop: 0 0 0
+1566832925.1 > [INFO: SPHERE    ] --- Network status ---
+1566832925.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832925.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832925.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832925.1 > [INFO: SPHERE    ] -- Default route:
+1566832925.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832925.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832925.1 > [INFO: SPHERE    ] ----------------------
+1566832925.1 > Since last CoAP message / ACK: 0
+1566832930.5 > [ERR : MSF       ] failed to reserve a cell at slot_offset:28, channel_offset:3
+1566832930.5 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566832930.5 > [INFO: MSF       ] delay the next request for 6706 seconds
+1566832932.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566832942.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 60, NumRequiredUpwardCells: 10
+1566832951.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 56, NumRequiredUpwardCells: 10
+1566832960.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 59, NumRequiredUpwardCells: 10
+1566832970.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566832979.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 61, NumRequiredUpwardCells: 10
+1566832983.1 > [ERR : MSF       ] failed to reserve a cell at slot_offset:61, channel_offset:3
+1566832983.1 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566832983.1 > [INFO: MSF       ] delay the next request for 4509 seconds
+1566832985.0 > 
+1566832985.0 > LINK STATS to 1: 376 365 1
+1566832985.0 > drop: 0 0 0
+1566832985.1 > [INFO: SPHERE    ] --- Network status ---
+1566832985.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566832985.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566832985.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566832985.1 > [INFO: SPHERE    ] -- Default route:
+1566832985.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566832985.2 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566832985.2 > [INFO: SPHERE    ] ----------------------
+1566832985.2 > Since last CoAP message / ACK: 0
+1566832988.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566832997.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566833007.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 62, NumRequiredUpwardCells: 10
+1566833016.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 57, NumRequiredUpwardCells: 10
+1566833018.8 > [ERR : MSF       ] failed to reserve a cell at slot_offset:22, channel_offset:5
+1566833018.8 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833018.8 > [INFO: MSF       ] delay the next request for 6632 seconds
+1566833025.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 59, NumRequiredUpwardCells: 10
+1566833035.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 60, NumRequiredUpwardCells: 10
+1566833044.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 57, NumRequiredUpwardCells: 10
+1566833045.0 > 
+1566833045.0 > LINK STATS to 1: 385 366 0
+1566833045.0 > drop: 0 0 0
+1566833045.1 > [INFO: SPHERE    ] --- Network status ---
+1566833045.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833045.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833045.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833045.1 > [INFO: SPHERE    ] -- Default route:
+1566833045.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833045.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833045.1 > [INFO: SPHERE    ] ----------------------
+1566833045.1 > Since last CoAP message / ACK: 0
+1566833053.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 65, NumRequiredUpwardCells: 10
+1566833062.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 59, NumRequiredUpwardCells: 10
+1566833070.6 > [ERR : MSF       ] failed to reserve a cell at slot_offset:86, channel_offset:1
+1566833070.6 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833070.6 > [INFO: MSF       ] delay the next request for 4651 seconds
+1566833072.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 60, NumRequiredUpwardCells: 10
+1566833081.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 57, NumRequiredUpwardCells: 10
+1566833090.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 58, NumRequiredUpwardCells: 10
+1566833099.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 60, NumRequiredUpwardCells: 10
+1566833104.9 > *** starting packetgen: 8 Hz
+1566833105.0 > 
+1566833105.0 > LINK STATS to 1: 386 368 1
+1566833105.0 > drop: 0 0 0
+1566833105.1 > [INFO: SPHERE    ] --- Network status ---
+1566833105.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833105.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833105.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833105.1 > [INFO: SPHERE    ] -- Default route:
+1566833105.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833105.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833105.1 > [INFO: SPHERE    ] ----------------------
+1566833105.2 > Since last CoAP message / ACK: 0
+1566833106.9 > [ERR : MSF       ] failed to reserve a cell at slot_offset:52, channel_offset:6
+1566833106.9 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833106.9 > [INFO: MSF       ] delay the next request for 4546 seconds
+1566833109.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 69, NumRequiredUpwardCells: 10
+1566833118.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 80, NumRequiredUpwardCells: 10
+1566833127.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 79, NumRequiredUpwardCells: 10
+1566833137.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 77, NumRequiredUpwardCells: 10
+1566833142.5 > [ERR : MSF       ] failed to reserve a cell at slot_offset:33, channel_offset:3
+1566833142.5 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833142.5 > [INFO: MSF       ] delay the next request for 5369 seconds
+1566833146.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 76, NumRequiredUpwardCells: 10
+1566833155.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 75, NumRequiredUpwardCells: 10
+1566833164.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 77, NumRequiredUpwardCells: 10
+1566833165.0 > 
+1566833165.0 > LINK STATS to 1: 498 479 1
+1566833165.0 > drop: 0 0 0
+1566833165.1 > [INFO: SPHERE    ] --- Network status ---
+1566833165.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833165.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833165.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833165.1 > [INFO: SPHERE    ] -- Default route:
+1566833165.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833165.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833165.1 > [INFO: SPHERE    ] ----------------------
+1566833165.1 > Since last CoAP message / ACK: 0
+1566833174.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 75, NumRequiredUpwardCells: 10
+1566833183.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 80, NumRequiredUpwardCells: 10
+1566833185.0 > [ERR : MSF       ] failed to reserve a cell at slot_offset:18, channel_offset:4
+1566833185.0 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833185.0 > [INFO: MSF       ] delay the next request for 5284 seconds
+1566833192.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 76, NumRequiredUpwardCells: 10
+1566833202.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 75, NumRequiredUpwardCells: 10
+1566833211.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 78, NumRequiredUpwardCells: 10
+1566833220.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 74, NumRequiredUpwardCells: 10
+1566833225.0 > 
+1566833225.0 > LINK STATS to 1: 496 481 1
+1566833225.0 > drop: 0 0 0
+1566833225.1 > [INFO: SPHERE    ] --- Network status ---
+1566833225.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833225.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833225.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833225.1 > [INFO: SPHERE    ] -- Default route:
+1566833225.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833225.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833225.1 > [INFO: SPHERE    ] ----------------------
+1566833225.1 > Since last CoAP message / ACK: 0
+1566833226.8 > [ERR : MSF       ] failed to reserve a cell at slot_offset:94, channel_offset:4
+1566833226.8 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833226.8 > [INFO: MSF       ] delay the next request for 7426 seconds
+1566833229.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 77, NumRequiredUpwardCells: 10
+1566833239.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 77, NumRequiredUpwardCells: 10
+1566833248.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 74, NumRequiredUpwardCells: 10
+1566833257.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 81, NumRequiredUpwardCells: 10
+1566833267.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 75, NumRequiredUpwardCells: 10
+1566833276.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 76, NumRequiredUpwardCells: 10
+1566833285.0 > 
+1566833285.0 > LINK STATS to 1: 491 478 1
+1566833285.0 > drop: 0 0 0
+1566833285.1 > [INFO: SPHERE    ] --- Network status ---
+1566833285.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833285.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833285.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833285.1 > [INFO: SPHERE    ] -- Default route:
+1566833285.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833285.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833285.1 > [INFO: SPHERE    ] ----------------------
+1566833285.1 > Since last CoAP message / ACK: 0
+1566833285.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 75, NumRequiredUpwardCells: 10
+1566833285.6 > [ERR : MSF       ] failed to reserve a cell at slot_offset:22, channel_offset:6
+1566833285.6 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833285.6 > [INFO: MSF       ] delay the next request for 5034 seconds
+1566833294.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 78, NumRequiredUpwardCells: 10
+1566833304.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 78, NumRequiredUpwardCells: 10
+1566833313.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 77, NumRequiredUpwardCells: 10
+1566833322.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 78, NumRequiredUpwardCells: 10
+1566833325.0 > [ERR : MSF       ] failed to reserve a cell at slot_offset:63, channel_offset:4
+1566833325.0 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833325.0 > [INFO: MSF       ] delay the next request for 7222 seconds
+1566833332.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 83, NumRequiredUpwardCells: 10
+1566833341.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 79, NumRequiredUpwardCells: 10
+1566833344.9 > 
+1566833344.9 > LINK STATS to 1: 511 481 1
+1566833344.9 > drop: 0 0 0
+1566833345.0 > [INFO: SPHERE    ] --- Network status ---
+1566833345.0 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833345.0 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833345.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833345.0 > [INFO: SPHERE    ] -- Default route:
+1566833345.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833345.0 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833345.0 > [INFO: SPHERE    ] ----------------------
+1566833345.0 > Since last CoAP message / ACK: 0
+1566833350.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 80, NumRequiredUpwardCells: 10
+1566833359.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 78, NumRequiredUpwardCells: 10
+1566833369.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 79, NumRequiredUpwardCells: 10
+1566833378.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 78, NumRequiredUpwardCells: 10
+1566833381.4 > [ERR : MSF       ] failed to reserve a cell at slot_offset:89, channel_offset:3
+1566833381.4 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833381.4 > [INFO: MSF       ] delay the next request for 6849 seconds
+1566833387.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 81, NumRequiredUpwardCells: 10
+1566833396.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 73, NumRequiredUpwardCells: 10
+1566833404.8 > *** starting packetgen: 10 Hz
+1566833405.0 > 
+1566833405.0 > LINK STATS to 1: 506 480 1
+1566833405.0 > drop: 0 0 0
+1566833405.1 > [INFO: SPHERE    ] --- Network status ---
+1566833405.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833405.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833405.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833405.1 > [INFO: SPHERE    ] -- Default route:
+1566833405.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833405.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833405.1 > [INFO: SPHERE    ] ----------------------
+1566833405.1 > Since last CoAP message / ACK: 0
+1566833406.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 81, NumRequiredUpwardCells: 10
+1566833415.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833424.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833434.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 85, NumRequiredUpwardCells: 10
+1566833435.6 > [ERR : MSF       ] failed to reserve a cell at slot_offset:70, channel_offset:5
+1566833435.6 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833435.6 > [INFO: MSF       ] delay the next request for 6171 seconds
+1566833443.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 83, NumRequiredUpwardCells: 10
+1566833452.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833461.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833464.9 > 
+1566833464.9 > LINK STATS to 1: 545 526 1
+1566833464.9 > drop: 0 109 0
+1566833465.0 > [INFO: SPHERE    ] --- Network status ---
+1566833465.0 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833465.0 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833465.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833465.0 > [INFO: SPHERE    ] -- Default route:
+1566833465.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833465.0 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833465.0 > [INFO: SPHERE    ] ----------------------
+1566833465.0 > Since last CoAP message / ACK: 0
+1566833471.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 82, NumRequiredUpwardCells: 10
+1566833480.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 87, NumRequiredUpwardCells: 10
+1566833484.3 > [ERR : MSF       ] failed to reserve a cell at slot_offset:54, channel_offset:6
+1566833484.3 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833484.3 > [INFO: MSF       ] delay the next request for 5429 seconds
+1566833489.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833499.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 83, NumRequiredUpwardCells: 10
+1566833508.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833517.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 83, NumRequiredUpwardCells: 10
+1566833524.9 > 
+1566833524.9 > LINK STATS to 1: 547 523 1
+1566833524.9 > drop: 0 117 0
+1566833525.0 > [INFO: SPHERE    ] --- Network status ---
+1566833525.0 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833525.0 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833525.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833525.0 > [INFO: SPHERE    ] -- Default route:
+1566833525.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833525.0 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833525.0 > [INFO: SPHERE    ] ----------------------
+1566833525.0 > Since last CoAP message / ACK: 0
+1566833526.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833526.8 > [ERR : MSF       ] failed to reserve a cell at slot_offset:44, channel_offset:0
+1566833526.8 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833526.8 > [INFO: MSF       ] delay the next request for 7308 seconds
+1566833536.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833545.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 82, NumRequiredUpwardCells: 10
+1566833554.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 87, NumRequiredUpwardCells: 10
+1566833563.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833573.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833582.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 85, NumRequiredUpwardCells: 10
+1566833584.1 > [ERR : MSF       ] failed to reserve a cell at slot_offset:2, channel_offset:0
+1566833584.1 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833584.1 > [INFO: MSF       ] delay the next request for 6587 seconds
+1566833584.9 > 
+1566833584.9 > LINK STATS to 1: 543 529 1
+1566833584.9 > drop: 0 107 0
+1566833585.0 > [INFO: SPHERE    ] --- Network status ---
+1566833585.0 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833585.0 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833585.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833585.0 > [INFO: SPHERE    ] -- Default route:
+1566833585.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833585.0 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833585.0 > [INFO: SPHERE    ] ----------------------
+1566833585.0 > Since last CoAP message / ACK: 0
+1566833591.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 83, NumRequiredUpwardCells: 10
+1566833601.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833610.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833619.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 82, NumRequiredUpwardCells: 10
+1566833629.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833635.9 > [ERR : MSF       ] failed to reserve a cell at slot_offset:70, channel_offset:5
+1566833636.0 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833636.0 > [INFO: MSF       ] delay the next request for 4991 seconds
+1566833638.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 85, NumRequiredUpwardCells: 10
+1566833644.9 > 
+1566833644.9 > LINK STATS to 1: 548 534 1
+1566833644.9 > drop: 0 106 0
+1566833645.1 > [INFO: SPHERE    ] --- Network status ---
+1566833645.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833645.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833645.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833645.1 > [INFO: SPHERE    ] -- Default route:
+1566833645.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833645.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833645.1 > [INFO: SPHERE    ] ----------------------
+1566833645.1 > Since last CoAP message / ACK: 0
+1566833647.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833656.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 85, NumRequiredUpwardCells: 10
+1566833666.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 82, NumRequiredUpwardCells: 10
+1566833675.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 85, NumRequiredUpwardCells: 10
+1566833675.4 > [ERR : MSF       ] failed to reserve a cell at slot_offset:32, channel_offset:2
+1566833675.4 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833675.4 > [INFO: MSF       ] delay the next request for 5727 seconds
+1566833684.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833693.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 81, NumRequiredUpwardCells: 10
+1566833703.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 88, NumRequiredUpwardCells: 10
+1566833704.8 > *** starting packetgen: 12 Hz
+1566833704.9 > 
+1566833704.9 > LINK STATS to 1: 544 521 1
+1566833704.9 > drop: 0 117 0
+1566833705.0 > [INFO: SPHERE    ] --- Network status ---
+1566833705.0 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833705.0 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833705.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833705.0 > [INFO: SPHERE    ] -- Default route:
+1566833705.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833705.0 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833705.0 > [INFO: SPHERE    ] ----------------------
+1566833705.0 > Since last CoAP message / ACK: 0
+1566833712.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833720.2 > [ERR : MSF       ] failed to reserve a cell at slot_offset:96, channel_offset:6
+1566833720.2 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833720.2 > [INFO: MSF       ] delay the next request for 5367 seconds
+1566833721.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833731.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 85, NumRequiredUpwardCells: 10
+1566833740.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 83, NumRequiredUpwardCells: 10
+1566833749.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833758.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833762.8 > [ERR : MSF       ] failed to reserve a cell at slot_offset:23, channel_offset:4
+1566833762.8 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833762.8 > [INFO: MSF       ] delay the next request for 6637 seconds
+1566833764.9 > 
+1566833764.9 > LINK STATS to 1: 545 528 1
+1566833764.9 > drop: 0 236 0
+1566833765.1 > [INFO: SPHERE    ] --- Network status ---
+1566833765.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833765.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833765.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833765.1 > [INFO: SPHERE    ] -- Default route:
+1566833765.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833765.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833765.1 > [INFO: SPHERE    ] ----------------------
+1566833765.1 > Since last CoAP message / ACK: 0
+1566833768.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 82, NumRequiredUpwardCells: 10
+1566833777.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 87, NumRequiredUpwardCells: 10
+1566833786.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833795.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833805.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 85, NumRequiredUpwardCells: 10
+1566833814.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 83, NumRequiredUpwardCells: 10
+1566833815.3 > [ERR : MSF       ] failed to reserve a cell at slot_offset:64, channel_offset:5
+1566833815.3 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833815.3 > [INFO: MSF       ] delay the next request for 4406 seconds
+1566833823.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833824.9 > 
+1566833824.9 > LINK STATS to 1: 546 537 1
+1566833824.9 > drop: 0 228 0
+1566833825.0 > [INFO: SPHERE    ] --- Network status ---
+1566833825.0 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833825.0 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833825.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833825.0 > [INFO: SPHERE    ] -- Default route:
+1566833825.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833825.0 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833825.0 > [INFO: SPHERE    ] ----------------------
+1566833825.0 > Since last CoAP message / ACK: 0
+1566833833.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833842.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 82, NumRequiredUpwardCells: 10
+1566833850.1 > [ERR : MSF       ] failed to reserve a cell at slot_offset:1, channel_offset:3
+1566833850.1 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833850.1 > [INFO: MSF       ] delay the next request for 6026 seconds
+1566833851.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 87, NumRequiredUpwardCells: 10
+1566833861.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833870.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833879.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 85, NumRequiredUpwardCells: 10
+1566833884.9 > 
+1566833884.9 > LINK STATS to 1: 544 521 0
+1566833884.9 > drop: 0 243 0
+1566833885.0 > [INFO: SPHERE    ] --- Network status ---
+1566833885.0 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833885.0 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833885.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833885.0 > [INFO: SPHERE    ] -- Default route:
+1566833885.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833885.0 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833885.0 > [INFO: SPHERE    ] ----------------------
+1566833885.0 > Since last CoAP message / ACK: 0
+1566833888.8 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 83, NumRequiredUpwardCells: 10
+1566833897.3 > [ERR : MSF       ] failed to reserve a cell at slot_offset:27, channel_offset:4
+1566833897.3 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833897.3 > [INFO: MSF       ] delay the next request for 4777 seconds
+1566833898.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833907.4 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833916.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 82, NumRequiredUpwardCells: 10
+1566833925.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 87, NumRequiredUpwardCells: 10
+1566833935.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833935.1 > [ERR : MSF       ] failed to reserve a cell at slot_offset:55, channel_offset:1
+1566833935.1 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833935.1 > [INFO: MSF       ] delay the next request for 4994 seconds
+1566833944.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 83, NumRequiredUpwardCells: 10
+1566833945.0 > 
+1566833945.0 > LINK STATS to 1: 548 528 2
+1566833945.0 > drop: 0 239 0
+1566833945.0 > [INFO: SPHERE    ] --- Network status ---
+1566833945.0 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566833945.0 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566833945.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566833945.0 > [INFO: SPHERE    ] -- Default route:
+1566833945.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566833945.0 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566833945.0 > [INFO: SPHERE    ] ----------------------
+1566833945.0 > Since last CoAP message / ACK: 0
+1566833953.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833963.1 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 83, NumRequiredUpwardCells: 10
+1566833972.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 84, NumRequiredUpwardCells: 10
+1566833974.7 > [ERR : MSF       ] failed to reserve a cell at slot_offset:8, channel_offset:6
+1566833974.7 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566833974.7 > [INFO: MSF       ] delay the next request for 4022 seconds
+1566833981.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 86, NumRequiredUpwardCells: 10
+1566833990.9 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 82, NumRequiredUpwardCells: 10
+1566834000.2 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 87, NumRequiredUpwardCells: 10
+1566834004.8 > *** ending packetgen
+1566834004.9 > 
+1566834004.9 > LINK STATS to 1: 544 525 0
+1566834004.9 > drop: 0 240 0
+1566834005.1 > [INFO: SPHERE    ] --- Network status ---
+1566834005.1 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566834005.1 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566834005.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566834005.1 > [INFO: SPHERE    ] -- Default route:
+1566834005.1 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566834005.1 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566834005.1 > [INFO: SPHERE    ] ----------------------
+1566834005.1 > Since last CoAP message / ACK: 0
+1566834006.4 > [ERR : MSF       ] failed to reserve a cell at slot_offset:52, channel_offset:1
+1566834006.4 > [ERR : MSF       ] failed to send an ADD request; cannot make a CellList
+1566834006.4 > [INFO: MSF       ] delay the next request for 5257 seconds
+1566834009.5 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 47, NumRequiredUpwardCells: 10
+1566834018.7 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 0, NumRequiredUpwardCells: 10 -> 8; going to delete a negotiated TX cell
+1566834028.0 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 1, NumRequiredUpwardCells: 8
+1566834037.3 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 1, NumRequiredUpwardCells: 8
+1566834046.6 > [INFO: MSF       ] NumCellsElapsed: 108, NumCellsUsed: 0, NumRequiredUpwardCells: 8
+1566834048.7 > [INFO: MSF       ] removed a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:81, channel_offset:6
+1566834056.6 > [INFO: MSF       ] NumCellsElapsed: 106, NumCellsUsed: 2, NumRequiredUpwardCells: 8 -> 7; going to delete a negotiated TX cell
+1566834057.6 > [INFO: MSF       ] removed a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:59, channel_offset:5
+1566834065.0 > 
+1566834065.0 > LINK STATS to 1: 7 7 3
+1566834065.0 > drop: 0 0 0
+1566834065.0 > [INFO: SPHERE    ] --- Network status ---
+1566834065.0 > [INFO: SPHERE    ] -- Server IPv6 addresses:
+1566834065.0 > [INFO: SPHERE    ] -- fd00::212:4b00:0:6
+1566834065.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:6
+1566834065.0 > [INFO: SPHERE    ] -- Default route:
+1566834065.0 > [INFO: SPHERE    ] -- fe80::212:4b00:0:1 (lifetime: 0 seconds)
+1566834065.0 > [INFO: SPHERE    ] -- Routing entries (0 in total):
+1566834065.0 > [INFO: SPHERE    ] ----------------------
+1566834065.0 > Since last CoAP message / ACK: 60
+1566834068.2 > [INFO: MSF       ] NumCellsElapsed: 106, NumCellsUsed: 1, NumRequiredUpwardCells: 7 -> 6; going to delete a negotiated TX cell
+1566834068.4 > [INFO: MSF       ] removed a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:47, channel_offset:1
+1566834081.4 > [INFO: MSF       ] NumCellsElapsed: 102, NumCellsUsed: 1, NumRequiredUpwardCells: 6 -> 5; going to delete a negotiated TX cell
+1566834082.3 > [INFO: MSF       ] removed a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:40, channel_offset:0
+1566834096.8 > [INFO: MSF       ] NumCellsElapsed: 101, NumCellsUsed: 2, NumRequiredUpwardCells: 5 -> 4; going to delete a negotiated TX cell
+1566834097.1 > [INFO: MSF       ] removed a negotiated TX cell for 0012.4b00.0000.0001 at slot_offset:35, channel_offset:1

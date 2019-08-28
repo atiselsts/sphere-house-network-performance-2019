@@ -1,0 +1,362 @@
+1566664553.4 > CoAP reg response: MID=3806, Type=2
+1566664553.4 > CoAP reg success
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 252451.64117383957}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:36:27.328050Z", "type": "HEARTBEAT"}
+1566664603.4 > 
+1566664603.4 > LINK STATS to 3: 0 0 1
+1566664603.4 > 
+1566664603.4 > LINK STATS to 5: 0 0 1
+1566664603.4 > 
+1566664603.4 > LINK STATS to 1: 8 7 6
+1566664603.4 > drop: 0 0 0
+1566664603.4 > slots: 16 3 3971 0 8
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 252511.67765569687}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:37:27.362612Z", "type": "HEARTBEAT"}
+1566664663.4 > 
+1566664663.4 > LINK STATS to 3: 0 0 0
+1566664663.4 > 
+1566664663.4 > LINK STATS to 5: 0 0 0
+1566664663.4 > 
+1566664663.4 > LINK STATS to 1: 4 4 3
+1566664663.4 > drop: 0 0 0
+1566664663.4 > slots: 9 1 4051 0 4
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 252571.71302461624}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:38:27.397809Z", "type": "HEARTBEAT"}
+1566664723.4 > 
+1566664723.4 > LINK STATS to 3: 0 0 0
+1566664723.4 > 
+1566664723.4 > LINK STATS to 5: 0 0 0
+1566664723.4 > 
+1566664723.4 > LINK STATS to 1: 1 1 1
+1566664723.4 > drop: 0 0 0
+1566664723.4 > slots: 5 0 4055 0 1
+1566664723.5 > *** starting packetgen: 2 Hz
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 252631.74560642242}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:39:27.431127Z", "type": "HEARTBEAT"}
+1566664783.4 > 
+1566664783.4 > LINK STATS to 3: 0 0 0
+1566664783.4 > 
+1566664783.4 > LINK STATS to 5: 0 0 0
+1566664783.4 > 
+1566664783.4 > LINK STATS to 1: 122 121 1
+1566664783.4 > drop: 0 0 0
+1566664783.4 > slots: 3 0 4038 0 122
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 252691.77885484695}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:40:27.463580Z", "type": "HEARTBEAT"}
+1566664843.4 > 
+1566664843.4 > LINK STATS to 3: 0 0 0
+1566664843.4 > 
+1566664843.4 > LINK STATS to 5: 0 0 0
+1566664843.4 > 
+1566664843.4 > LINK STATS to 1: 122 121 0
+1566664843.4 > drop: 0 0 0
+1566664843.4 > slots: 3 0 4045 0 122
+1566664843.5 > *** starting packetgen: 4 Hz
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 252751.8135421276}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:41:27.498544Z", "type": "HEARTBEAT"}
+1566664903.4 > 
+1566664903.4 > LINK STATS to 3: 0 0 0
+1566664903.4 > 
+1566664903.4 > LINK STATS to 5: 0 0 0
+1566664903.4 > 
+1566664903.4 > LINK STATS to 1: 241 241 1
+1566664903.4 > drop: 0 0 0
+1566664903.4 > slots: 6 0 4021 0 241
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 252811.84905147552}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:42:27.533992Z", "type": "HEARTBEAT"}
+1566664963.4 > 
+1566664963.4 > LINK STATS to 3: 0 0 0
+1566664963.4 > 
+1566664963.4 > LINK STATS to 5: 0 0 0
+1566664963.4 > 
+1566664963.4 > LINK STATS to 1: 241 241 1
+1566664963.4 > drop: 0 0 0
+1566664963.4 > slots: 5 0 4015 0 241
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 252871.8819255829}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:43:27.567318Z", "type": "HEARTBEAT"}
+1566665023.4 > 
+1566665023.4 > LINK STATS to 3: 0 0 0
+1566665023.4 > 
+1566665023.4 > LINK STATS to 5: 0 0 0
+1566665023.4 > 
+1566665023.4 > LINK STATS to 1: 243 242 1
+1566665023.4 > drop: 0 0 0
+1566665023.4 > slots: 4 0 4019 0 243
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 252931.91512227058}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:44:27.600302Z", "type": "HEARTBEAT"}
+1566665083.4 > 
+1566665083.4 > LINK STATS to 3: 0 0 0
+1566665083.4 > 
+1566665083.4 > LINK STATS to 5: 0 0 0
+1566665083.4 > 
+1566665083.4 > LINK STATS to 1: 243 241 1
+1566665083.4 > drop: 0 0 0
+1566665083.4 > slots: 2 0 4007 0 243
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 252991.94991207123}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:45:27.635190Z", "type": "HEARTBEAT"}
+1566665143.4 > 
+1566665143.4 > LINK STATS to 3: 0 0 0
+1566665143.4 > 
+1566665143.4 > LINK STATS to 5: 0 0 0
+1566665143.4 > 
+1566665143.4 > LINK STATS to 1: 246 242 1
+1566665143.4 > drop: 0 0 0
+1566665143.4 > slots: 3 0 4021 0 246
+1566665143.5 > *** starting packetgen: 6 Hz
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253051.98513627052}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:46:27.669933Z", "type": "HEARTBEAT"}
+1566665203.4 > 
+1566665203.4 > LINK STATS to 3: 0 0 0
+1566665203.4 > 
+1566665203.4 > LINK STATS to 5: 0 0 0
+1566665203.4 > 
+1566665203.4 > LINK STATS to 1: 368 366 1
+1566665203.4 > drop: 0 0 0
+1566665203.4 > slots: 2 0 4000 0 368
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253112.01771640778}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:47:27.703463Z", "type": "HEARTBEAT"}
+1566665263.4 > 
+1566665263.4 > LINK STATS to 3: 0 0 0
+1566665263.4 > 
+1566665263.4 > LINK STATS to 5: 0 0 0
+1566665263.4 > 
+1566665263.4 > LINK STATS to 1: 368 367 1
+1566665263.4 > drop: 0 0 0
+1566665263.4 > slots: 1 0 4002 0 368
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253172.05121397972}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:48:27.736606Z", "type": "HEARTBEAT"}
+1566665323.4 > 
+1566665323.4 > LINK STATS to 3: 0 0 0
+1566665323.4 > 
+1566665323.4 > LINK STATS to 5: 0 0 0
+1566665323.4 > 
+1566665323.4 > LINK STATS to 1: 368 367 1
+1566665323.4 > drop: 0 0 0
+1566665323.4 > slots: 4 0 3988 0 368
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253232.0863802433}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:49:27.771390Z", "type": "HEARTBEAT"}
+1566665383.4 > 
+1566665383.4 > LINK STATS to 3: 0 0 0
+1566665383.4 > 
+1566665383.4 > LINK STATS to 5: 0 0 0
+1566665383.4 > 
+1566665383.4 > LINK STATS to 1: 369 366 1
+1566665383.4 > drop: 0 0 0
+1566665383.4 > slots: 3 0 3991 0 369
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253292.12209105492}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:50:27.806869Z", "type": "HEARTBEAT"}
+1566665443.4 > 
+1566665443.4 > LINK STATS to 3: 0 0 0
+1566665443.4 > 
+1566665443.4 > LINK STATS to 5: 0 0 0
+1566665443.4 > 
+1566665443.4 > LINK STATS to 1: 370 367 0
+1566665443.4 > drop: 0 0 0
+1566665443.4 > slots: 4 0 3995 0 370
+1566665443.4 > *** starting packetgen: 8 Hz
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253352.15509915352}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:51:27.840490Z", "type": "HEARTBEAT"}
+1566665503.4 > 
+1566665503.4 > LINK STATS to 3: 0 0 0
+1566665503.4 > 
+1566665503.4 > LINK STATS to 5: 0 0 0
+1566665503.4 > 
+1566665503.4 > LINK STATS to 1: 484 481 2
+1566665503.4 > drop: 0 0 0
+1566665503.4 > slots: 4 0 3960 0 484
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253412.18824911118}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:52:27.873450Z", "type": "HEARTBEAT"}
+1566665563.4 > 
+1566665563.4 > LINK STATS to 3: 0 0 0
+1566665563.4 > 
+1566665563.4 > LINK STATS to 5: 0 0 0
+1566665563.4 > 
+1566665563.4 > LINK STATS to 1: 482 481 0
+1566665563.4 > drop: 0 0 0
+1566665563.4 > slots: 0 0 3971 0 482
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253472.22124242783}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:53:27.906068Z", "type": "HEARTBEAT"}
+1566665623.4 > 
+1566665623.4 > LINK STATS to 3: 0 0 0
+1566665623.4 > 
+1566665623.4 > LINK STATS to 5: 0 0 0
+1566665623.4 > 
+1566665623.4 > LINK STATS to 1: 488 482 1
+1566665623.4 > drop: 0 0 0
+1566665623.4 > slots: 2 0 3968 0 488
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253532.25395464897}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:54:27.939605Z", "type": "HEARTBEAT"}
+1566665683.4 > 
+1566665683.4 > LINK STATS to 3: 0 0 0
+1566665683.4 > 
+1566665683.4 > LINK STATS to 5: 0 0 0
+1566665683.4 > 
+1566665683.4 > LINK STATS to 1: 497 481 1
+1566665683.4 > drop: 0 0 0
+1566665683.4 > slots: 5 0 3970 0 497
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253592.2873339653}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:55:27.972594Z", "type": "HEARTBEAT"}
+1566665743.4 > 
+1566665743.4 > LINK STATS to 3: 0 0 0
+1566665743.4 > 
+1566665743.4 > LINK STATS to 5: 0 0 0
+1566665743.4 > 
+1566665743.4 > LINK STATS to 1: 487 481 1
+1566665743.4 > drop: 0 0 0
+1566665743.4 > slots: 2 0 3971 0 487
+1566665743.4 > *** starting packetgen: 10 Hz
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253652.321829319}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:56:28.007370Z", "type": "HEARTBEAT"}
+1566665803.4 > 
+1566665803.4 > LINK STATS to 3: 0 0 0
+1566665803.4 > 
+1566665803.4 > LINK STATS to 5: 0 0 0
+1566665803.4 > 
+1566665803.4 > LINK STATS to 1: 652 641 1
+1566665803.4 > drop: 0 0 0
+1566665803.4 > slots: 4 0 3946 0 652
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253712.35521292686}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:57:28.042768Z", "type": "HEARTBEAT"}
+1566665863.4 > 
+1566665863.4 > LINK STATS to 3: 0 0 0
+1566665863.4 > 
+1566665863.4 > LINK STATS to 5: 0 0 0
+1566665863.4 > 
+1566665863.4 > LINK STATS to 1: 657 641 1
+1566665863.4 > drop: 0 0 0
+1566665863.4 > slots: 4 0 3952 0 657
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253772.39043664932}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:58:28.076057Z", "type": "HEARTBEAT"}
+1566665923.3 > 
+1566665923.4 > LINK STATS to 3: 0 0 0
+1566665923.4 > 
+1566665923.4 > LINK STATS to 5: 0 0 0
+1566665923.4 > 
+1566665923.4 > LINK STATS to 1: 655 642 1
+1566665923.4 > drop: 0 0 0
+1566665923.4 > slots: 2 0 3943 0 655
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253832.42396259308}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T16:59:28.109088Z", "type": "HEARTBEAT"}
+1566665983.3 > 
+1566665983.3 > LINK STATS to 3: 0 0 0
+1566665983.4 > 
+1566665983.4 > LINK STATS to 5: 0 0 0
+1566665983.4 > 
+1566665983.4 > LINK STATS to 1: 652 642 1
+1566665983.4 > drop: 0 0 0
+1566665983.4 > slots: 3 0 3950 0 652
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253892.45691037178}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T17:00:28.142101Z", "type": "HEARTBEAT"}
+1566666043.3 > *** starting packetgen: 12 Hz
+1566666043.3 > 
+1566666043.3 > LINK STATS to 3: 0 0 0
+1566666043.3 > 
+1566666043.3 > LINK STATS to 5: 0 0 0
+1566666043.3 > 
+1566666043.3 > LINK STATS to 1: 656 641 1
+1566666043.3 > drop: 0 0 0
+1566666043.3 > slots: 7 0 3936 0 656
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [[{"n": "UID", "v": "serial"}, {"n": "NUM_MESSAGES", "v": 290}, {"n": "NUM_TOTAL_MESSAGES", "v": 290}]], "bt": "2019-08-24T16:31:27.112841Z", "type": "PDR", "mc": 70}
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 253952.49120879173}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T17:01:28.176502Z", "type": "HEARTBEAT"}
+1566666103.3 > 
+1566666103.3 > LINK STATS to 3: 0 0 0
+1566666103.3 > 
+1566666103.3 > LINK STATS to 5: 0 0 0
+1566666103.3 > 
+1566666103.3 > LINK STATS to 1: 785 769 1
+1566666103.3 > drop: 0 0 0
+1566666103.3 > slots: 3 0 3936 0 785
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 254012.52409505844}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T17:02:28.209389Z", "type": "HEARTBEAT"}
+1566666163.3 > 
+1566666163.3 > LINK STATS to 3: 0 0 0
+1566666163.3 > 
+1566666163.3 > LINK STATS to 5: 0 0 0
+1566666163.3 > 
+1566666163.3 > LINK STATS to 1: 778 768 1
+1566666163.3 > drop: 0 0 0
+1566666163.3 > slots: 3 0 3911 0 778
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 254072.557179451}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T17:03:28.241939Z", "type": "HEARTBEAT"}
+1566666223.3 > 
+1566666223.3 > LINK STATS to 3: 0 0 0
+1566666223.3 > 
+1566666223.3 > LINK STATS to 5: 0 0 0
+1566666223.3 > 
+1566666223.3 > LINK STATS to 1: 783 768 0
+1566666223.3 > drop: 0 0 0
+1566666223.3 > slots: 0 0 3927 0 783
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 254132.5896408558}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T17:04:28.275296Z", "type": "HEARTBEAT"}
+1566666283.3 > 
+1566666283.3 > LINK STATS to 3: 0 0 0
+1566666283.3 > 
+1566666283.3 > LINK STATS to 5: 0 0 0
+1566666283.3 > 
+1566666283.3 > LINK STATS to 1: 789 770 2
+1566666283.3 > drop: 0 0 0
+1566666283.3 > slots: 6 0 3912 0 789
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 254192.6230430603}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T17:05:28.308491Z", "type": "HEARTBEAT"}
+1566666343.3 > *** ending packetgen
+1566666343.3 > 
+1566666343.3 > LINK STATS to 3: 0 0 0
+1566666343.3 > 
+1566666343.3 > LINK STATS to 5: 0 0 0
+1566666343.3 > 
+1566666343.3 > LINK STATS to 1: 775 769 0
+1566666343.3 > drop: 0 0 0
+1566666343.3 > slots: 1 0 3911 0 775
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 254252.65756177902}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T17:06:28.342675Z", "type": "HEARTBEAT"}
+1566666403.3 > 
+1566666403.3 > LINK STATS to 3: 0 0 0
+1566666403.3 > 
+1566666403.3 > LINK STATS to 5: 0 0 0
+1566666403.3 > 
+1566666403.3 > LINK STATS to 1: 1 1 1
+1566666403.3 > drop: 0 0 0
+1566666403.3 > slots: 2 0 4057 0 1
+Nodes registered:
+
+Publishing {"uid": "gateway_script", "e": [{"n": "UPTIME", "v": 254312.6907737255}, {"n": "SERIAL_PORT", "v": 1}, {"n": "GW_NODE_ALIVE", "v": 0}, {"n": "VERSION", "v": "2018_november_1-2-g71d1c31"}], "bt": "2019-08-24T17:07:28.375624Z", "type": "HEARTBEAT"}
+1566666463.3 > 
+1566666463.3 > LINK STATS to 3: 0 0 0
+1566666463.3 > 
+1566666463.3 > LINK STATS to 5: 0 0 0
+1566666463.3 > 
+1566666463.3 > LINK STATS to 1: 2 2 1
+1566666463.3 > drop: 0 0 0
+1566666463.3 > slots: 8 0 4054 0 2
